@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notification.mp3",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notification.mp3",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\861dab33cb841c9c756e1b59f6e9aa3dc3e60139\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\b0afe0a7cd21cfe7ed4dd105408cadc064b489a1\\output\\res\\raw\\gtm_analytics"
+    }
+]

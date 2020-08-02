@@ -1,0 +1,1050 @@
+[
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green_btn_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\green_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_btn_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_bg.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\yellow_gradient_header.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\yellow_gradient_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\e2a11d6ec7853303a6bfc1be7970093bd751d377\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_thin_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_thin_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\unknown_avatar.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\unknown_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\unknown_avatar.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\unknown_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_dialog_warning.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_dialog_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_background_full.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_background_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\colorlist_yellow.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\colorlist_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\profile_circular_border_imageview.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\profile_circular_border_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_orange.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\e2a11d6ec7853303a6bfc1be7970093bd751d377\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\register_travel_transparent_background.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\register_travel_transparent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_upcoming_play.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logout_btn_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\logout_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\red_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rounded_corner_bg.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\rounded_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\red_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\grey_white_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\grey_white_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_empty.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_text_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\signin_btn_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\signin_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_bg.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\main_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\grey_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\grey_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\white_circle.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_pressed.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cursor.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\787f9b001516a3e8ef256b9ca27f76a3f8510990\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\darkblue_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\darkblue_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_normal.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_full.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_text_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\787f9b001516a3e8ef256b9ca27f76a3f8510990\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rounded_corner_bg.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\rounded_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\grey_white_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\grey_white_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\787f9b001516a3e8ef256b9ca27f76a3f8510990\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chkbx_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\chkbx_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chkbx_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\chkbx_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\colorlist_yellow.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\colorlist_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\787f9b001516a3e8ef256b9ca27f76a3f8510990\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\material_shape_blue.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\material_shape_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_button_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\transparent_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_softgrey.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape_softgrey.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_green.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\signin_btn_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\signin_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\c51f5837fe3b9e3d22fb9a59dad61c60f6699f99\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_upcoming_stop.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_mini_controller_upcoming_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_background_navigation_social.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_background_navigation_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\orange_btn_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\orange_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\white_circle.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_thin_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_thin_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_upcoming_play.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_btn_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\red_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_border_box.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\transparent_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\material_shape_blue.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\material_shape_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\transparent_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_button_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\transparent_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_background_navigation_social.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_background_navigation_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\darkblue_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\darkblue_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector_light.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\checkbox_selector_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\e2a11d6ec7853303a6bfc1be7970093bd751d377\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_bg.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_upcoming_stop.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_mini_controller_upcoming_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_softgrey.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape_softgrey.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector_dark.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\checkbox_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\colorlist_blue.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\colorlist_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_bg.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\main_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_background_empty.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_background_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\colorlist_blue.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\colorlist_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\orange_btn_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\orange_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector_light.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\checkbox_selector_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_btn_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\red_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_btn_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\e2a11d6ec7853303a6bfc1be7970093bd751d377\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_gradient_header.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_gradient_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_background_full.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_background_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_green.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_dialog_warning.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_dialog_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_gradient_header.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\blue_gradient_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\register_travel_transparent_background.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\register_travel_transparent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\4c3e4d977d638893522d7db319fe697f36993903\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_shape_orange.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\round_shape_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_normal.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\787f9b001516a3e8ef256b9ca27f76a3f8510990\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\profile_circular_border_imageview.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\profile_circular_border_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_pressed.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logout_btn_selector.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\logout_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\checkbox_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_full.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_text_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\yellow_gradient_header.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\yellow_gradient_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cursor.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\eeb453882857f40e0c0ea4867fff33415597d7af\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green_btn_selector.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\green_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_background_empty.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_background_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\0d4dd4fd91471cfc08a14d776ae090fbdae79f76\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\grey_border_box.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\grey_border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\997154d765c070a92b8abbf91ffc12a0f636af25\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\material_shape_yellow.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\material_shape_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\material_shape_yellow.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\material_shape_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_empty.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable\\selector_text_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\e2a11d6ec7853303a6bfc1be7970093bd751d377\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\ca84b14d45553b0832cf2bae0fdb1a0c4df6c91d\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\15cb38bb348d656820dd400ad16b0175f2f9fab4\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    }
+]

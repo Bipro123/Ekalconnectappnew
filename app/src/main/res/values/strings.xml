@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConnectApp</string>
+    <string name="no_internet">No network connection found! Please check your network connection.</string>
+    <string name="response_timeout">Error! No network connection found.</string>
+    <string name="auth_failure">Server authentication failed.</string>
+    <string name="server_error">Server isn\'t responding.</string>
+    <string name="network_error">Network not found! Please check your internet connection.</string>
+    <string name="parse_error">Unable to parse Data.</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_edit_profile">Edit</string>
+    <!-- Nav Drawer Menu Items -->
+    <!--<string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Offline Status</item>
+        <item>Logout</item>
+    </string-array>-->
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <!--<array name="nav_drawer_icons">
+        <item>@drawable/nav_home</item>
+        <item>@drawable/nav_logout</item>
+        <item>@drawable/nav_logout</item>
+    </array>-->
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Material Design Icons -->
+    <string name="material_icon_account">&#xe800;</string>
+    <string name="material_icon_account_multiple">&#xe8dc;</string>
+    <string name="material_icon_bookmark">&#xe921;</string>
+    <string name="material_icon_bike">&#xe915;</string>
+    <string name="material_icon_box_full">&#xe86b;</string>
+    <string name="material_icon_clock">&#xe881;</string>
+    <string name="material_icon_check">&#xe867;</string>
+    <string name="material_icon_checked_full">&#xe86f;</string>
+    <string name="material_icon_check_empty">&#xe86a;</string>
+    <string name="material_icon_check_full">&#xe86e;</string>
+    <string name="material_icon_city">&#xe878;</string>
+    <string name="material_icon_cart">&#xe857;</string>
+    <string name="material_icon_chevron_down">&#xe874;</string>
+    <string name="material_icon_chevron_up">&#xe877;</string>
+    <string name="material_icon_date">&#xe848;</string>
+    <string name="material_icon_drink">&#xea08;</string>
+    <string name="material_icon_dollar">&#xe892;</string>
+    <string name="material_icon_email">&#xe99c;</string>
+    <string name="material_icon_eat">&#xeac6;</string>
+    <string name="material_icon_friends">&#xe8d5;</string>
+    <string name="material_icon_flag">&#xe96a;</string>
+    <string name="material_icon_favorite">&#xe9b6;</string>
+    <string name="material_icon_go">&#xea04;</string>
+    <string name="material_icon_go_left">&#xe875;</string>
+    <string name="material_icon_go_right">&#xe876;</string>
+    <string name="material_icon_home_variant">&#xe9bd;</string>
+    <string name="material_icon_home">&#xe9be;</string>
+    <string name="material_icon_hotels">&#xeae3;</string>
+    <string name="material_icon_heart_outline">&#xe9b3;</string>
+    <string name="material_icon_headphones">&#xe9b1;</string>
+    <string name="material_icon_human">&#xe9c5;</string>
+    <string name="material_icon_headline">&#xeb40;</string>
+    <string name="material_icon_image_box">&#xe952;</string>
+    <string name="material_icon_info">&#xe9d4;</string>
+    <string name="material_icon_info_box">&#xe896;</string>
+    <string name="material_icon_like">&#xeb03;</string>
+    <string name="material_icon_line_spacing">&#xe988;</string>
+    <string name="material_icon_note">&#xea23;</string>
+    <string name="material_icon_message">&#xea12;</string>
+    <string name="material_icon_play">&#xe831;</string>
+    <string name="material_icon_play_single">&#xea7d;</string>
+    <string name="material_icon_play_square">&#xea7a;</string>
+    <string name="material_icon_play_circle">&#xea7b;</string>
+    <string name="material_icon_play_outline">&#xea7b;</string>
+    <string name="material_icon_pig">&#xea72;</string>
+    <string name="material_icon_password">&#xe9fa;</string>
+    <string name="material_icon_plus_box">&#xea7f;</string>
+    <string name="material_icon_party">&#xe937;</string>
+    <string name="material_icon_point_empty">&#xe868;</string>
+    <string name="material_icon_point_full">&#xe869;</string>
+    <string name="material_icon_star_outline">&#xeade;</string>
+    <string name="material_icon_star_half">&#xeadd;</string>
+    <string name="material_icon_star">&#xeadf;</string>
+    <string name="material_icon_share">&#xeac0;</string>
+    <string name="material_icon_skip_next">&#xeaca;</string>
+    <string name="material_icon_skip_previous">&#xeacb;</string>
+    <string name="material_icon_soundcloud">&#xead3;</string>
+    <string name="material_icon_statistics">&#xea87;</string>
+    <string name="material_icon_shop">&#xe858;</string>
+    <string name="material_icon_sleep">&#xe9c2;</string>
+    <string name="material_icon_settings">&#xeabe;</string>
+    <string name="material_icon_state">&#xeb62;</string>
+    <string name="material_icon_to_left">&#xe876;</string>
+    <string name="material_icon_video">&#xeb39;</string>
+    <string name="material_icon_undo">&#xeb2c;</string>
+    <string name="material_icon_unfold_more">&#xeb2f;</string>
+    <string name="material_icon_w_shop">&#xeb4f;</string>
+    <string name="material_icon_cloud_univ_first">&#xeb54;</string>
+    <string name="material_icon_cloud_univ_second">&#xeb5a;</string>
+    <string name="material_icon_cloud_univ_third">&#xeb55;</string>
+    <string name="material_icon_logout">&#x2297;</string>
+
+    <!-- Content description strings -->
+    <string name="cd_background_image">background image</string>
+    <string name="cd_main_image">main image</string>
+    <string name="fontello_logo">&#xe8ad;</string>
+    <string name="fontello_search">&#xea01;</string>
+    <string name="fontello_x_mark">&#xe887;</string>
+    <string name="fontello_x_mark_masked">&#xe885;</string>
+    <string name="fontello_microfon">&#xea18;</string>
+    <string name="fontello_user">&#xe800;</string>
+    <string name="fontello_password">&#xe9df;</string>
+    <string name="fontello_upload">&#xeb30;</string>
+    <string name="fontello_play">&#xea7d;</string>
+    <string name="fontello_heart_empty">&#xe9b5;</string>
+    <string name="fontello_heart_full">&#xe9b6;</string>
+    <string name="fontello_drag_and_drop">&#xe988;</string>
+
+    <string-array name="state_array">
+        <item>AP</item>
+        <item>BG</item>
+        <item>BH</item>
+        <item>CH</item>
+        <item>GJ</item>
+        <item>HP</item>
+        <item>HR</item>
+        <item>JH</item>
+        <item>JK</item>
+        <item>KN</item>
+        <item>KR</item>
+        <item>MB</item>
+        <item>MH</item>
+        <item>MP</item>
+        <item>NE</item>
+        <item>OR</item>
+        <item>PB</item>
+        <item>RJ</item>
+        <item>TN</item>
+        <item>UP</item>
+        <item>UT</item>
+    </string-array>
+    <string-array name="state_name_array">
+        <item>AP - Andhra Pradesh</item>
+        <item>BG - West Bengal</item>
+        <item>BH - Bihar</item>
+        <item>CH - Chhattisgarh</item>
+        <item>GJ - Gujarat</item>
+        <item>HP - Himachal Pradesh</item>
+        <item>HR - Haryana</item>
+        <item>JH - Jharkhand</item>
+        <item>JK - Jammu &amp; Kashmir</item>
+        <item>KN - Karnataka</item>
+        <item>KR - Kerala</item>
+        <item>MB - Madhya Bharat</item>
+        <item>MH - Maharasthra</item>
+        <item>MP - Madhya Pradesh</item>
+        <item>NE - North East</item>
+        <item>OR - Orissa</item>
+        <item>PB - Punjab</item>
+        <item>RJ - Rajasthan</item>
+        <item>TN - Tamilnadu</item>
+        <item>UP - Uttar Pradesh</item>
+        <item>UT - Uttaranchal</item>
+    </string-array>
+    <string-array name="comments_array">
+        <item>Teacher with Donar Board</item>
+        <item>Teacher with student</item>
+        <item>Samity</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="comments_arogya_array">
+        <item>Soak Pit</item>
+        <item>Compost Pit</item>
+        <item>Waste Pit</item>
+        <item>Meetings</item>
+        <item>Prabhat Pheri</item>
+        <item>Samity Meetings</item>
+        <item>Meetings</item>
+        <item>Wall Writings</item>
+        <item>Vidyalay Visit</item>
+        <item>Donor Board with Sevika</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="crash_toast">Oops I have crashed! Please report to the developer.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="continue_on_app">CONTINUE WITHOUT UPDATE</string>
+
+    <!-- Rath Numbers -->
+
+    <string-array name="rath_number_header_array">
+        <item>Ambikapur UP-42M-9616</item>
+        <item>Andhrapradesh_F UP-42U-5918</item>
+        <item>Awadh	UP-42U-4486</item>
+        <item>Bhagalpur MP-42BC-0270</item>
+        <item>Bundelkhand UP-42K-6622</item>
+        <item>Chandrabhaga MP-09GH-1038</item>
+        <item>Chittorgarh RJ-36GA-1110</item>
+        <item>Dhamtari UP-42H-2275</item>
+        <item>Dhanbad UP-42S-4740</item>
+        <item>Dibrugarh	NL-02D-8551</item>
+        <item>E.Odisha UP-42M-8991</item>
+        <item>Gorakhpur UP-42AC-0724</item>
+        <item>Gujarat UP-42AL-3581</item>
+        <item>Guwahati UP-42T-4203</item>
+        <item>Jaipur UP-42BT-4874</item>
+        <item>Kashi UP-42AK-9497</item>
+        <item>Lohardaga JH-10P-4919</item>
+        <item>Madhya Bengal WB-19A-6183</item>
+        <item>Madhya Bharat UP-42T-4487</item>
+        <item>Magadh UP-42AC-0725</item>
+        <item>Malwa MP-09GG-9832</item>
+        <item>Mithila UP-42S-4739</item>
+        <item>Nasik UP-42BT-2698</item>
+        <item>N.Bengal UP-42AT-9736</item>
+        <item>Prayag UP-42BT-5120</item>
+        <item>Ranchi UP-42Z-2974</item>
+        <item>Rewanchal UP-42T-5668</item>
+        <item>Ruhelkhand UP-42U-3913</item>
+        <item>Santhal Pargana UP-42BT-4875</item>
+        <item>Satpura UP-42T-3085</item>
+        <item>Silchar UP-42HT-9735</item>
+        <item>S.Bengal UP-42Z-2973</item>
+        <item>Telangana	UP-42W-6811</item>
+        <item>Vidhrb UP-42BT-2702</item>
+        <item>Vindhyachal MP-42BC-0550</item>
+        <item>W.Odisha UP-42T-3129</item>
+    </string-array>
+    <string-array name="Gender_array">
+        <item>Please Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="med_tab_syrup">
+        <item>Please Select</item>
+        <item>Amoxycillin 500Cap</item>
+        <item>Amoxycillin 250 Cap</item>
+        <item>Amoxycillin Tilydrate Dispersible tab 125mg</item>
+        <item>Paracetamol 500mg tab</item>
+        <item>Paracetamol 125 mg (Kid)</item>
+        <item>Trimethoprim and Sulbhamethoxazole tab SS 400+80 Inj. Agharol A</item>
+        <item>Vita A Capsules 5000 I.U.</item>
+        <item>Vita A Capsules 2 I.U. lacs</item>
+        <item>Azithromycin 500mg Tab</item>
+        <item>Albendazole 400 mg  Tab</item>
+        <item>Ciprofloxacin 500 mg Tab</item>
+        <item>Folic and  Ferrous sulphate Tab(Small)</item>
+        <item>Folic and Ferrous sulphate Tab(Lauge)</item>
+        <item>Levo  Citrizine 5mg Tab</item>
+        <item>Aciclovir 400 mg. Tab</item>
+        <item>Calcium Vit.  D3 Tab 500mg+250mg</item>
+        <item>Cetrizine 10 mg Tab</item>
+        <item>Ranitidin 150mg Tab</item>
+        <item>Pantaparazole 20 mg</item>
+        <item>Albendazole 200mg/5ml 10ml Phial</item>
+        <item>Ibuprofen 200mg Tab/400mg Tab</item>
+
+
+
+    </string-array>
+    <string-array name="eye_drop_array">
+        <item>Please Select</item>
+        <item>Ciprofloxacin 0.3% E/D</item>
+        <item>Chloromphenicol 0.5% E/D</item>
+        <item>Chloromphenicol Eye 1 % Oint</item>
+        <item>Moxifloxacin 0.5% Eye drop</item>
+        <item>Betnosol Eye drop (Betamethosore 1% E/D)</item>
+        <item>Natamycin 5% Eye Drop</item>
+        <item>Tropicacyl Plus E/D</item>
+        <item>Optimide E/D (Olopatadin Hydrochloride 0.1%)</item>
+        <item>Tears E/D (Carboxymethyl Cellulose 0.5%)</item>
+        <item>Laoricel (HPMC)</item>
+        <item>Olopat E/D (Olopatadin 0.1%)</item>
+        <item>Gatifloxacin 0.3% Eye Ointment</item>
+        <item>Flurosin Eye Ointment(Fluromethalore Eye Ointment 0.1%)</item>
+
+
+    </string-array>
+
+    <string-array name="option_array">
+        <item>Please Select</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="rath_number_array">
+        <item>UP-42M-9616</item>
+        <item>UP-42U-5918</item>
+        <item>UP-42U-4486</item>
+        <item>MP-42BC-0270</item>
+        <item>UP-42K-6622</item>
+        <item>MP-09GH-1038</item>
+        <item>RJ-36GA-1110</item>
+        <item>UP-42H-2275</item>
+        <item>UP-42S-4740</item>
+        <item>NL-02D-8551</item>
+        <item>UP-42M-8991</item>
+        <item>UP-42AC-0724</item>
+        <item>UP-42AL-3581</item>
+        <item>UP-42T-4203</item>
+        <item>UP-42BT-4874</item>
+        <item>UP-42AK-9497</item>
+        <item>JH-10P-4919</item>
+        <item>WB-19A-6183</item>
+        <item>UP-42T-4487</item>
+        <item>UP-42AC-0725</item>
+        <item>MP-09GG-9832</item>
+        <item>UP-42S-4739</item>
+        <item>UP-42BT-2698</item>
+        <item>UP-42AT-9736</item>
+        <item>UP-42BT-5120</item>
+        <item>UP-42Z-2974</item>
+        <item>UP-42T-5668</item>
+        <item>UP-42U-3913</item>
+        <item>UP-42BT-4875</item>
+        <item>UP-42T-3085</item>
+        <item>UP-42HT-9735</item>
+        <item>UP-42Z-2973</item>
+        <item>UP-42W-6811</item>
+        <item>UP-42BT-2702</item>
+        <item>MP-42BC-0550</item>
+        <item>UP-42T-3129</item>
+    </string-array>
+    <string-array name="rath_picture_category">
+        <item>Darshan</item>
+        <item>Donor</item>
+        <item>Registration</item>
+        <item>Dharma Sabha</item>
+        <item>Others</item>
+    </string-array>
+    <!-- Search member -->
+    <string name="action_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Type and Search Member</string>
+    <!-- Youtube Player -->
+    <string name="error_player_ytube">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="fullscreen_tutorial">Enter fullscreen either by using the player controller or by  using the Enter Fullscreen button.</string>
+    <string name="landscape_fullscreen">Always fullscreen in landscape</string>
+    <string name="enter_fullscreen">Enter Fullscreen</string>
+
+    // Firebase DB
+    <string name="settings_file_name">com.connectapp.users.temp</string>
+
+    <!--Chat-->
+    <string name="sendPhoto">Photo Camera</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="select_picture_title">Get Photo From</string>
+    <string name="sendPhotoGallery">Photo Gallery</string>
+
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="desc_fts_mem_dir">View FTS Members Directory</string>
+    <string name="desc_shss_mem_dir">View SHSS Members Directory</string>
+
+
+    <string-array name="states_array">
+        <!-- <item>Andhra Pradesh</item>
+         <item>Arunachal Pradesh</item>
+         <item>Assam</item>
+         <item>Bihar</item>
+         <item>Chhattisgarh</item>
+         <item>Delhi(NCT)</item>
+         <item>Goa</item>
+         <item>Gujarat</item>
+         <item>Haryana</item>
+         <item>Himachal Pradesh</item>
+         <item>Jammu &amp; Kashmir</item>
+         <item>Jharkhand</item>
+         <item>Karnataka</item>
+         <item>Kerala</item>
+         <item>Madhya Pradesh</item>
+         <item>Maharashtra</item>
+         <item>Manipur</item>
+         <item>Meghalaya</item>
+         <item>Mizoram</item>
+         <item>Nagaland</item>
+         <item>Odisha</item>
+         <item>Punjab</item>
+         <item>Rajasthan</item>
+         <item>Sikkim</item>
+         <item>Tamil Nadu</item>
+         <item>Telangana</item>
+         <item>Tripura</item>
+         <item>Uttarakhand</item>
+         <item>Uttar Pradesh</item>-->
+        <item>West Bengal</item>
+    </string-array>
+
+    <string-array name="states_code_array">
+        <!-- <item>AP</item>
+         <item>AR</item>
+         <item>AS</item>
+         <item>BR</item>
+         <item>CG</item>
+         <item>DL</item>
+         <item>GA</item>
+         <item>GJ</item>
+         <item>HR</item>
+         <item>HP</item>
+         <item>JK</item>
+         <item>JH</item>
+         <item>KA</item>
+         <item>KL</item>
+         <item>MP</item>
+         <item>MH</item>
+         <item>MN</item>
+         <item>ML</item>
+         <item>MZ</item>
+         <item>NL</item>
+         <item>OR</item>
+         <item>PB</item>
+         <item>RJ</item>
+         <item>SK</item>
+         <item>TN</item>
+         <item>TG</item>
+         <item>TR</item>
+         <item>UK</item>
+         <item>UP</item>-->
+        <item>WB</item>
+    </string-array>
+
+    <string name="digits">0123456789</string>
+    <string-array name="ref_id_type_array">
+        <item>Aadhar Card</item>
+        <item>Voters ID Card</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="state_spinner_array">
+         <item>Andhra Pradesh</item>
+         <item>Arunachal Pradesh</item>
+         <item>Assam</item>
+         <item>Bihar</item>
+         <item>Chhattisgarh</item>
+         <item>Delhi</item>
+         <item>Goa</item>
+         <item>Gujarat</item>
+         <item>Haryana</item>
+         <item>Himachal Pradesh</item>
+         <item>Jammu and Kashmir</item>
+         <item>Jharkhand</item>
+         <item>Karnataka</item>
+         <item>Kerala</item>
+         <item>Madhya Pradesh</item>
+         <item>Maharashtra</item>
+         <item>Manipur</item>
+         <item>Meghalaya</item>
+         <item>Mizoram</item>
+         <item>Nagaland</item>
+         <item>Odisha</item>
+         <item>Punjab</item>
+         <item>Rajasthan</item>
+         <item>Sikkim</item>
+         <item>Tamil Nadu</item>
+         <item>Telangana</item>
+         <item>Tripura</item>
+         <item>Uttarakhand</item>
+         <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="role_array">
+        <item>Bread-Earner</item>
+        <item>Student</item>
+        <item>Houserhelp</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="qualification_array">
+        <item>Graduate</item>
+        <item>High-School</item>
+        <item>Primary-School</item>
+        <item>Home School</item>
+        <item>Others</item>
+    </string-array>
+
+    <!--<string-array name="income_group_array">
+        <item>&#x3c;= 1,00000</item>
+        <item>&#x3e; 1,00000 &#x3c;= 3,00000</item>
+        <item>&#x3e; 3,00000 &#x3c;= 5,00000</item>
+        <item>&#x3e; 5,00000</item>
+    </string-array>-->
+    <string-array name="income_group_array">
+        <item>less than 1,00000</item>
+        <item>1,00000 - 3,00000</item>
+        <item>3,00000 - 5,00000</item>
+        <item>more than 5,00000</item>
+    </string-array>
+
+    <string-array name="district_array_demo">
+        <item>Medinipur</item>
+    </string-array>
+
+    <string-array name="district_code_array_demo">
+        <item>WB_MP</item>
+    </string-array>
+    <string-array name="tehsil_array_demo">
+        <item>Contai - 1</item>
+    </string-array>
+
+    <string-array name="tehsil_code_array_demo">
+        <item>WB_MP_CO</item>
+    </string-array>
+    <string-array name="village_array_demo">
+        <item>Adambar</item>
+        <item>Akandi</item>
+        <item>Akgerya</item>
+        <item>Alalpur</item>
+        <item>Alipur</item>
+        <item>Amadpur</item>
+        <item>Amartalya</item>
+    </string-array>
+
+    <string-array name="village_code_array_demo">
+        <item>Adambar</item>
+        <item>Akandi</item>
+        <item>Akgerya</item>
+        <item>Alalpur</item>
+        <item>Alipur</item>
+        <item>Amadpur</item>
+        <item>Amartalya</item>
+    </string-array>
+
+    <string name="project1">Prathmik Siksha</string>
+    <string name="project2">Swasthya Sikshya</string>
+    <string name="project3">Gram vikas Sikhaya</string>
+    <string name="project4">Jagaran Sikhaya</string>
+    <string name="project5">Granthon Prakalp</string>
+    <string name="project6">Arogya Prakalp</string>
+    <string name="project7">Home Remedies</string>
+    <string name="project8">Gram Swaraj Manch</string>
+    <string name="project9">Shrihari Mandir Rath Utsav Bibhag</string>
+    <string name="project10">Sanskar Siksha</string>
+
+    <string name="masspl_site"> <a href="http://www.masspl.com">www.masspl.com</a></string>
+</resources>

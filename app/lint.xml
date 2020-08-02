@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_login.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res/layout/activity_login.xml" />
+    </issue>
+</lint>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="item_add_on_indicator">#2ea7e0</color>
+    <color name="light_gray_text_color">#595757</color>
+    <color name="white">#fff</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="task_list_row_tap_color">#85c2df</color>
+    <color name="grey">#7b7d7c</color>
+    <color name="normal">#3a3e40</color>
+    <color name="remember_me">#374F5D</color>
+    <color name="dark_blue">#1835A4</color>
+    <color name="btn_bckg">#01aebf</color>
+    <color name="form_detail_btn_bg">#00CED1</color>
+    <color name="text_color">#0d3145</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#CDD1D2</color>
+    <color name="list_background_pressed">#333333</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+    <!-- COLOR -->
+
+    <color name="psts_background_tab_pressed">#1AFFFFFF</color>
+    <color name="psts_background_tab_pressed_ripple">#AAFFFFFF</color>
+    <color name="white_15_percent">#26ffffff</color>
+    <color name="white_30_percent">#4Dffffff</color>
+    <color name="divider_color">@color/main_color_500</color>
+    <color name="main_color_500">@color/material_blue_500</color>
+    <color name="main_color_50">@color/material_blue_50</color>
+    <color name="main_color_100">@color/material_blue_100</color>
+    <color name="main_color_200">@color/material_blue_200</color>
+    <color name="main_color_300">@color/material_blue_300</color>
+    <color name="main_color_400">@color/material_blue_400</color>
+    <color name="main_color_600">@color/material_blue_600</color>
+    <color name="main_color_700">@color/material_blue_700</color>
+    <color name="main_color_800">@color/material_blue_800</color>
+    <color name="main_color_900">@color/material_blue_900</color>
+    <color name="main_color_A100">@color/material_light_yellow_A100</color>
+    <color name="main_color_A200">@color/material_light_yellow_A200</color>
+    <color name="main_color_A400">@color/material_light_yellow_A400</color>
+    <color name="main_color_grey_500">@color/material_grey_500</color>
+    <color name="main_color_grey_50">@color/material_grey_50</color>
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_200">@color/material_grey_200</color>
+    <color name="main_color_grey_300">@color/material_grey_300</color>
+    <color name="main_color_grey_400">@color/material_grey_400</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
+    <color name="main_color_grey_700">@color/material_grey_700</color>
+    <color name="main_color_grey_800">@color/material_grey_800</color>
+    <color name="main_color_grey_900">@color/material_grey_900</color>
+
+    <!--
+    PLEASE NOTE: Since adding transparency to already
+    defined colors is not supported through xml, we have
+    to add them manually. This means: we have used purple
+    color scheme, and this is where we use Purple500 color
+    to add transparency. If you were about to change color
+    scheme, also change Purple500 color from here.
+    -->
+    <!-- 10 percent transparent Purple500 -->
+    <color name="main_color_500_10_percent">#1a8f3e97</color>
+    <!-- 20 percent transparent Purple500 -->
+    <color name="main_color_500_20_percent">#338f3e97</color>
+    <!-- 50 percent transparent Purple500 -->
+    <color name="main_color_500_50_percent">#808f3e97</color>
+    <!--
+    Ex. If you use red color scheme, write down (#ef4437 is Red500 color):
+    <color name="main_color_500_10_percent">#1aef4437</color>
+    <color name="main_color_500_20_percent">#33ef4437</color>
+    <color name="main_color_500_50_percent">#80ef4437</color>
+
+    -->
+
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_white">@android:color/white</color>
+
+
+    <color name="chat_sent_blue">#1273B0</color>
+    <color name="chat_received_white">#ffffff</color>
+    <color name="chat_black">#333333</color>
+    <color name="chat_grey">#C8C8C8</color>
+
+    <color name="grey_medium">#BDBFC1</color>
+    <color name="grey_soft">#F5F5F5</color>
+    <color name="grey_dark">#37474F</color>
+    <color name="grey_medium_dark">#777777</color>
+
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="card_detailing">#eee</color>
+</resources>

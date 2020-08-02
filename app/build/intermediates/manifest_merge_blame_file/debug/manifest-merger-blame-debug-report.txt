@@ -1,0 +1,1103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.connectapp.user"
+4    android:versionCode="70"
+5    android:versionName="2.6.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+15-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:9:5-98
+15-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:9:22-95
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:10:5-78
+16-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:10:22-75
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:11:5-75
+17-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:11:22-72
+18    <!--
+19 <uses-permission android:name="android.permission.SEND_SMS" />
+20    <uses-permission android:name="android.permission.CALL_PHONE" />
+21    -->
+22    <!-- Sync Adapter -->
+23    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+23-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:17:5-74
+23-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:17:22-71
+24    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+24-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:18:5-77
+24-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:18:22-74
+25    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" /> <!-- client -->
+25-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:19:5-78
+25-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:19:22-75
+26    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+26-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:20:5-74
+26-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:20:22-71
+27    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+27-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:21:5-71
+27-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:21:22-68
+28    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" /> <!-- Authenticator -->
+28-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:22:5-74
+28-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:22:22-71
+29    <uses-permission android:name="android.permission.INTERNET" />
+29-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:23:5-67
+29-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:23:22-64
+30    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+30-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:24:5-80
+30-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:24:22-77
+31    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+31-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:25:5-80
+31-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:25:22-77
+32    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+32-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:26:5-81
+32-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:26:22-78
+33
+34    <!-- Optional permission for Analytics to run. -->
+35    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
+35-->[com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e49ff5eb1c7dcf3389cf8bf4ec2c1a4c\play-services-analytics-9.2.0\AndroidManifest.xml:25:5-67
+35-->[com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e49ff5eb1c7dcf3389cf8bf4ec2c1a4c\play-services-analytics-9.2.0\AndroidManifest.xml:25:22-65
+36    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+36-->[com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\9d304d8562446947be87accb94181853\play-services-gcm-9.2.0\AndroidManifest.xml:21:5-82
+36-->[com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\9d304d8562446947be87accb94181853\play-services-gcm-9.2.0\AndroidManifest.xml:21:22-79
+37
+38    <uses-feature
+38-->[com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\38e2b6974b83c8be45a3382acdf3cf77\play-services-maps-9.2.0\AndroidManifest.xml:22:5-24:33
+39        android:glEsVersion="0x00020000"
+39-->[com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\38e2b6974b83c8be45a3382acdf3cf77\play-services-maps-9.2.0\AndroidManifest.xml:23:8-40
+40        android:required="true" />
+40-->[com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\38e2b6974b83c8be45a3382acdf3cf77\play-services-maps-9.2.0\AndroidManifest.xml:24:8-31
+41
+42    <permission
+42-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:25:5-26:47
+43        android:name="com.connectapp.user.permission.C2D_MESSAGE"
+43-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:25:17-71
+44        android:protectionLevel="signature" />
+44-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:26:9-44
+45
+46    <uses-permission android:name="com.connectapp.user.permission.C2D_MESSAGE" />
+46-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:28:5-79
+46-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:28:22-76
+47
+48    <application
+48-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:27:5-426:19
+49        android:name="com.connectapp.user.volley.AppController"
+49-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:28:9-45
+50        android:allowBackup="true"
+50-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:29:9-35
+51        android:debuggable="true"
+52        android:icon="@drawable/app_icon"
+52-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:30:9-42
+53        android:label="@string/app_name"
+53-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:31:9-41
+54        android:theme="@style/AppTheme.NoActionBar"
+54-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:32:9-52
+55        android:usesCleartextTraffic="true" >
+55-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:33:9-44
+56        <uses-library
+56-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:34:9-88
+57            android:name="org.apache.http.legacy"
+57-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:34:23-60
+58            android:required="false" />
+58-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:34:61-85
+59
+60        <meta-data
+60-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:35:9-37:69
+61            android:name="com.google.android.gms.version"
+61-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:36:13-58
+62            android:value="@integer/google_play_services_version" />
+62-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:37:13-66
+63
+64        <activity
+64-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:39:9-49:20
+65            android:name="com.connectapp.user.activity.SplashActivity"
+65-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:40:13-52
+66            android:label="@string/app_name"
+66-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:41:13-45
+67            android:screenOrientation="portrait"
+67-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:42:13-49
+68            android:windowSoftInputMode="stateHidden|adjustPan" >
+68-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:43:13-64
+69            <intent-filter>
+69-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:44:13-48:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:17-69
+70-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:47:17-77
+72-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:47:27-74
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:50:9-53:67
+76            android:name="com.connectapp.user.activity.RegistrationActivity"
+76-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:51:13-58
+77            android:screenOrientation="portrait"
+77-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:52:13-49
+78            android:windowSoftInputMode="stateHidden|adjustPan" />
+78-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:53:13-64
+79        <activity
+79-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:54:9-57:67
+80            android:name="com.connectapp.user.activity.LoginActivity"
+80-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:55:13-51
+81            android:screenOrientation="portrait"
+81-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:56:13-49
+82            android:windowSoftInputMode="stateHidden|adjustPan" />
+82-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:57:13-64
+83        <activity
+83-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:58:9-61:67
+84            android:name="com.connectapp.user.activity.KeyWordActivity"
+84-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:59:13-53
+85            android:screenOrientation="portrait"
+85-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:60:13-49
+86            android:windowSoftInputMode="stateHidden|adjustPan" />
+86-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:61:13-64
+87        <activity
+87-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:62:9-66:67
+88            android:name="com.connectapp.user.activity.SchoolFormActivity"
+88-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:63:13-56
+89            android:screenOrientation="portrait"
+89-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:64:13-49
+90            android:theme="@style/Theme.MyCompatTheme"
+90-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:65:13-55
+91            android:windowSoftInputMode="stateHidden|adjustPan" />
+91-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:66:13-64
+92        <activity
+92-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:67:9-71:67
+93            android:name="com.connectapp.user.activity.RathFormActivity"
+93-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:68:13-54
+94            android:screenOrientation="portrait"
+94-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:69:13-49
+95            android:theme="@style/Theme.MyCompatTheme"
+95-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:70:13-55
+96            android:windowSoftInputMode="stateHidden|adjustPan" />
+96-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:71:13-64
+97        <activity
+97-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:72:9-76:67
+98            android:name="com.connectapp.user.activity.UnSyncedDataActivity"
+98-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:73:13-58
+99            android:screenOrientation="portrait"
+99-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:74:13-49
+100            android:theme="@style/Theme.MyCompatTheme"
+100-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:75:13-55
+101            android:windowSoftInputMode="stateHidden|adjustPan" />
+101-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:76:13-64
+102        <activity
+102-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:77:9-80:67
+103            android:name="com.connectapp.user.activity.MainActivity"
+103-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:78:13-50
+104            android:screenOrientation="portrait"
+104-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:79:13-49
+105            android:windowSoftInputMode="stateHidden|adjustPan" />
+105-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:80:13-64
+106        <activity
+106-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:81:9-95:20
+107            android:name="com.connectapp.user.members.MembersDirectory"
+107-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:82:13-53
+108            android:label="@string/app_name"
+108-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:83:13-45
+109            android:screenOrientation="portrait"
+109-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:84:13-49
+110            android:theme="@style/Theme.MyCompatTheme" >
+110-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:85:13-55
+111            <intent-filter>
+111-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:86:13-90:29
+112                <action android:name="android.intent.action.MAIN" />
+112-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:17-69
+112-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:25-66
+113
+114                <category android:name="android.intent.category.DEFAULT" />
+114-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+114-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+115            </intent-filter>
+116
+117            <meta-data
+117-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+118                android:name="android.app.default_searchable"
+118-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+119                android:value=".members.MemberSearchResultsActivity" />
+119-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+120        </activity>
+121        <activity
+121-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:96:9-110:20
+122            android:name="com.connectapp.user.members.NewMembersDirectory"
+122-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:97:13-56
+123            android:label="@string/app_name"
+123-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:98:13-45
+124            android:screenOrientation="portrait"
+124-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:99:13-49
+125            android:theme="@style/Theme.MyCompatTheme" >
+125-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:100:13-55
+126            <intent-filter>
+126-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:86:13-90:29
+127                <action android:name="android.intent.action.MAIN" />
+127-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:17-69
+127-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:25-66
+128
+129                <category android:name="android.intent.category.DEFAULT" />
+129-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+129-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+130            </intent-filter>
+131
+132            <meta-data
+132-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+133                android:name="android.app.default_searchable"
+133-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+134                android:value=".members.MemberSearchResultsActivity" />
+134-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+135        </activity>
+136        <activity
+136-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:111:9-127:20
+137            android:name="com.connectapp.user.members.MemberSearchResultsActivity"
+137-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:112:13-64
+138            android:label="@string/app_name"
+138-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:113:13-45
+139            android:launchMode="singleTop"
+139-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:114:13-43
+140            android:theme="@style/Theme.MyCompatTheme" >
+140-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:115:13-55
+141
+142            <!-- to identify this activity as "searchable" -->
+143            <intent-filter>
+143-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:118:13-122:29
+144                <action android:name="android.intent.action.SEARCH" />
+144-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:17-71
+144-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:25-68
+145
+146                <category android:name="android.intent.category.DEFAULT" />
+146-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+146-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+147            </intent-filter>
+148
+149            <meta-data
+149-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:124:13-126:54
+150                android:name="android.app.searchable"
+150-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:125:17-54
+151                android:resource="@xml/searchable" />
+151-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:126:17-51
+152        </activity>
+153        <activity
+153-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:128:9-143:20
+154            android:name="com.connectapp.user.members.MemberListActivity"
+154-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:129:13-55
+155            android:label="@string/app_name"
+155-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:130:13-45
+156            android:theme="@style/Theme.MyCompatTheme" >
+156-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:131:13-55
+157
+158            <!-- to identify this activity as "searchable" -->
+159            <intent-filter>
+159-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:118:13-122:29
+160                <action android:name="android.intent.action.SEARCH" />
+160-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:17-71
+160-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:25-68
+161
+162                <category android:name="android.intent.category.DEFAULT" />
+162-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+162-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+163            </intent-filter>
+164
+165            <meta-data
+165-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+166                android:name="android.app.default_searchable"
+166-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+167                android:value=".members.MemberSearchResultsActivity" />
+167-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+168        </activity>
+169        <activity
+169-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:144:9-147:54
+170            android:name="com.connectapp.user.members.MemberViewActivity"
+170-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:145:13-55
+171            android:screenOrientation="portrait"
+171-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:146:13-49
+172            android:theme="@style/MemberViewTheme" /> <!-- SHSS -->
+172-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:147:13-51
+173        <activity
+173-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:148:9-162:20
+174            android:name="com.connectapp.user.membershss.MembersSHSSDirectory"
+174-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:149:13-60
+175            android:label="@string/app_name"
+175-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:150:13-45
+176            android:screenOrientation="portrait"
+176-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:151:13-49
+177            android:theme="@style/Theme.MyCompatTheme" >
+177-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:152:13-55
+178            <intent-filter>
+178-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:86:13-90:29
+179                <action android:name="android.intent.action.MAIN" />
+179-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:17-69
+179-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:25-66
+180
+181                <category android:name="android.intent.category.DEFAULT" />
+181-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+181-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+182            </intent-filter>
+183
+184            <meta-data
+184-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+185                android:name="android.app.default_searchable"
+185-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+186                android:value=".membershss.MemberSearchResultsSHSSActivity" />
+186-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+187        </activity>
+188        <activity
+188-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:163:9-177:20
+189            android:name="com.connectapp.user.membershss.NewMembersSHSSDirectory"
+189-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:164:13-63
+190            android:label="@string/app_name"
+190-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:165:13-45
+191            android:screenOrientation="portrait"
+191-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:166:13-49
+192            android:theme="@style/Theme.MyCompatTheme" >
+192-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:167:13-55
+193            <intent-filter>
+193-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:86:13-90:29
+194                <action android:name="android.intent.action.MAIN" />
+194-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:17-69
+194-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:25-66
+195
+196                <category android:name="android.intent.category.DEFAULT" />
+196-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+196-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+197            </intent-filter>
+198
+199            <meta-data
+199-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+200                android:name="android.app.default_searchable"
+200-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+201                android:value=".membershss.MemberSearchResultsSHSSActivity" />
+201-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+202        </activity>
+203        <activity
+203-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:178:9-194:20
+204            android:name="com.connectapp.user.membershss.MemberSearchResultsSHSSActivity"
+204-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:179:13-71
+205            android:label="@string/app_name"
+205-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:180:13-45
+206            android:launchMode="singleTop"
+206-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:181:13-43
+207            android:theme="@style/Theme.MyCompatTheme" >
+207-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:182:13-55
+208
+209            <!-- to identify this activity as "searchable" -->
+210            <intent-filter>
+210-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:118:13-122:29
+211                <action android:name="android.intent.action.SEARCH" />
+211-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:17-71
+211-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:25-68
+212
+213                <category android:name="android.intent.category.DEFAULT" />
+213-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+213-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+214            </intent-filter>
+215
+216            <meta-data
+216-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:124:13-126:54
+217                android:name="android.app.searchable"
+217-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:125:17-54
+218                android:resource="@xml/searchable" />
+218-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:126:17-51
+219        </activity>
+220        <activity
+220-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:195:9-210:20
+221            android:name="com.connectapp.user.membershss.MemberListSHSSActivity"
+221-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:196:13-62
+222            android:label="@string/app_name"
+222-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:197:13-45
+223            android:theme="@style/Theme.MyCompatTheme" >
+223-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:198:13-55
+224
+225            <!-- to identify this activity as "searchable" -->
+226            <intent-filter>
+226-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:118:13-122:29
+227                <action android:name="android.intent.action.SEARCH" />
+227-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:17-71
+227-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:25-68
+228
+229                <category android:name="android.intent.category.DEFAULT" />
+229-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+229-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+230            </intent-filter>
+231
+232            <meta-data
+232-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+233                android:name="android.app.default_searchable"
+233-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+234                android:value=".membershss.MemberSearchResultsSHSSActivity" />
+234-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+235        </activity>
+236        <activity
+236-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:211:9-214:54
+237            android:name="com.connectapp.user.membershss.MemberViewSHSSActivity"
+237-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:212:13-62
+238            android:screenOrientation="portrait"
+238-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:213:13-49
+239            android:theme="@style/MemberViewTheme" />
+239-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:214:13-51
+240        <activity
+240-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:215:9-218:47
+241            android:name="com.connectapp.user.activity.EkalChaptersActivity"
+241-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:216:13-58
+242            android:screenOrientation="portrait"
+242-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:217:13-49
+243            android:theme="@style/AppTheme" />
+243-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:218:13-44
+244        <activity
+244-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:219:9-222:58
+245            android:name="com.connectapp.user.activity.ResourcesActivity"
+245-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:220:13-55
+246            android:screenOrientation="portrait"
+246-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:221:13-49
+247            android:theme="@style/Theme.MyCompatTheme" />
+247-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:222:13-55
+248        <activity
+248-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:223:9-228:58
+249            android:name="com.connectapp.user.dropDownActivity.StateCodeActivity"
+249-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:224:13-63
+250            android:label="Select your State"
+250-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:225:13-46
+251            android:noHistory="true"
+251-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:226:13-37
+252            android:screenOrientation="portrait"
+252-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:227:13-49
+253            android:theme="@style/Theme.MyCompatTheme" />
+253-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:228:13-55
+254        <activity
+254-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:229:9-234:70
+255            android:name="com.connectapp.user.dropDownActivity.PictureCategoryActivity"
+255-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:230:13-69
+256            android:label="Picture Category"
+256-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:231:13-45
+257            android:noHistory="true"
+257-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:232:13-37
+258            android:screenOrientation="portrait"
+258-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:233:13-49
+259            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+259-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:234:13-67
+260        <activity
+260-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:235:9-240:70
+261            android:name="com.connectapp.user.dropDownActivity.RathPictureCategoryActivity"
+261-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:236:13-73
+262            android:label="Picture Category"
+262-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:237:13-45
+263            android:noHistory="true"
+263-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:238:13-37
+264            android:screenOrientation="portrait"
+264-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:239:13-49
+265            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+265-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:240:13-67
+266        <activity
+266-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:241:9-246:70
+267            android:name="com.connectapp.user.dropDownActivity.RathNumberActivity"
+267-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:242:13-64
+268            android:label="Rath Number"
+268-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:243:13-40
+269            android:noHistory="true"
+269-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:244:13-37
+270            android:screenOrientation="portrait"
+270-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:245:13-49
+271            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+271-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:246:13-67
+272        <activity
+272-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:247:9-252:70
+273            android:name="com.connectapp.user.dropDownActivity.StateListActivity"
+273-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:248:13-63
+274            android:label="State"
+274-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:249:13-34
+275            android:noHistory="true"
+275-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:250:13-37
+276            android:screenOrientation="portrait"
+276-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:251:13-49
+277            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+277-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:252:13-67
+278        <activity
+278-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:253:9-258:70
+279            android:name="com.connectapp.user.dropDownActivity.DemoDistListActivity"
+279-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:254:13-66
+280            android:label="District"
+280-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:255:13-37
+281            android:noHistory="true"
+281-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:256:13-37
+282            android:screenOrientation="portrait"
+282-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:257:13-49
+283            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+283-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:258:13-67
+284        <activity
+284-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:259:9-264:70
+285            android:name="com.connectapp.user.view.SchoolDialog"
+285-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:260:13-46
+286            android:label=" "
+286-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:261:13-30
+287            android:noHistory="true"
+287-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:262:13-37
+288            android:screenOrientation="portrait"
+288-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:263:13-49
+289            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+289-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:264:13-67
+290        <activity
+290-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:265:9-270:70
+291            android:name="com.connectapp.user.dropDownActivity.DemoTehsilListActivity"
+291-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:266:13-68
+292            android:label="Tehsil"
+292-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:267:13-35
+293            android:noHistory="true"
+293-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:268:13-37
+294            android:screenOrientation="portrait"
+294-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:269:13-49
+295            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+295-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:270:13-67
+296        <activity
+296-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:271:9-276:70
+297            android:name="com.connectapp.user.dropDownActivity.DemoVillageListActivity"
+297-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:272:13-69
+298            android:label="Village"
+298-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:273:13-36
+299            android:noHistory="true"
+299-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:274:13-37
+300            android:screenOrientation="portrait"
+300-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:275:13-49
+301            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+301-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:276:13-67
+302        <activity
+302-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:277:9-282:70
+303            android:name="com.connectapp.user.dropDownActivity.DistrictListActivity"
+303-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:278:13-66
+304            android:label="District"
+304-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:279:13-37
+305            android:noHistory="true"
+305-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:280:13-37
+306            android:screenOrientation="portrait"
+306-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:281:13-49
+307            android:theme="@android:style/Theme.Holo.Light.Dialog" />
+307-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:282:13-67
+308        <activity
+308-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:283:9-287:67
+309            android:name="com.connectapp.user.activity.HistoryActivity"
+309-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:284:13-53
+310            android:screenOrientation="portrait"
+310-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:285:13-49
+311            android:theme="@style/Theme.MyCompatTheme"
+311-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:286:13-55
+312            android:windowSoftInputMode="stateHidden|adjustPan" />
+312-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:287:13-64
+313        <activity
+313-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:288:9-292:67
+314            android:name="com.connectapp.user.activity.WebViewActivity"
+314-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:289:13-53
+315            android:screenOrientation="portrait"
+315-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:290:13-49
+316            android:theme="@style/Theme.MyCompatTheme"
+316-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:291:13-55
+317            android:windowSoftInputMode="stateHidden|adjustPan" />
+317-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:292:13-64
+318        <activity
+318-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:293:9-297:67
+319            android:name="com.connectapp.user.activity.SchoolViewMenuActivity"
+319-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:294:13-60
+320            android:screenOrientation="portrait"
+320-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:295:13-49
+321            android:theme="@style/Theme.MyCompatTheme"
+321-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:296:13-55
+322            android:windowSoftInputMode="stateHidden|adjustPan" />
+322-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:297:13-64
+323        <activity
+323-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:298:9-302:67
+324            android:name="com.connectapp.user.activity.VillageViewMenuActivity"
+324-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:299:13-61
+325            android:screenOrientation="portrait"
+325-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:300:13-49
+326            android:theme="@style/Theme.MyCompatTheme"
+326-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:301:13-55
+327            android:windowSoftInputMode="stateHidden|adjustPan" />
+327-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:302:13-64
+328        <activity
+328-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:303:9-307:67
+329            android:name="com.connectapp.user.activity.RathViewMenuActivity"
+329-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:304:13-58
+330            android:screenOrientation="portrait"
+330-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:305:13-49
+331            android:theme="@style/Theme.MyCompatTheme"
+331-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:306:13-55
+332            android:windowSoftInputMode="stateHidden|adjustPan" />
+332-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:307:13-64
+333        <activity
+333-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:308:9-312:67
+334            android:name="com.connectapp.user.activity.GPSTutorialActivity"
+334-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:309:13-57
+335            android:screenOrientation="portrait"
+335-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:310:13-49
+336            android:theme="@style/Theme.MyCompatTheme"
+336-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:311:13-55
+337            android:windowSoftInputMode="stateHidden|adjustPan" />
+337-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:312:13-64
+338        <activity
+338-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:313:9-317:67
+339            android:name="com.connectapp.user.activity.ProfileActivity"
+339-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:314:13-53
+340            android:screenOrientation="portrait"
+340-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:315:13-49
+341            android:theme="@style/Theme.MyCompatTheme"
+341-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:316:13-55
+342            android:windowSoftInputMode="stateHidden|adjustPan" />
+342-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:317:13-64
+343        <activity
+343-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:318:9-329:20
+344            android:name="com.connectapp.user.youtube.PlayVideoActivity"
+344-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:319:13-54
+345            android:configChanges="keyboardHidden|orientation|screenSize"
+345-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:320:13-74
+346            android:screenOrientation="portrait"
+346-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:321:13-49
+347            android:theme="@style/Theme.MyCompatTheme" >
+347-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:322:13-55
+348            <meta-data
+348-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:323:13-325:37
+349                android:name="@string/minVersion"
+349-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:324:17-50
+350                android:value="8" />
+350-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:325:17-34
+351            <meta-data
+351-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:326:13-328:40
+352                android:name="@string/isLaunchableActivity"
+352-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:327:17-60
+353                android:value="true" />
+353-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:328:17-37
+354        </activity>
+355        <activity
+355-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:330:9-334:67
+356            android:name="com.connectapp.user.activity.ComingSoonActivity"
+356-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:331:13-56
+357            android:screenOrientation="portrait"
+357-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:332:13-49
+358            android:theme="@style/AppTheme"
+358-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:333:13-44
+359            android:windowSoftInputMode="adjustPan|stateHidden" />
+359-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:334:13-64
+360        <activity
+360-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:335:9-339:67
+361            android:name="com.connectapp.user.activity.ChatActivity"
+361-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:336:13-50
+362            android:screenOrientation="portrait"
+362-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:337:13-49
+363            android:theme="@style/AppTheme"
+363-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:338:13-44
+364            android:windowSoftInputMode="adjustPan|stateHidden" />
+364-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:339:13-64
+365        <activity
+365-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:340:9-344:67
+366            android:name="com.connectapp.user.activity.GoogleSignInActivity"
+366-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:341:13-58
+367            android:screenOrientation="portrait"
+367-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:342:13-49
+368            android:theme="@style/AppTheme"
+368-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:343:13-44
+369            android:windowSoftInputMode="adjustPan|stateHidden" />
+369-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:344:13-64
+370        <activity
+370-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:345:9-348:47
+371            android:name="com.connectapp.user.activity.ChatContactsActivity"
+371-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:346:13-58
+372            android:screenOrientation="portrait"
+372-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:347:13-49
+373            android:theme="@style/AppTheme" />
+373-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:348:13-44
+374        <activity
+374-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:349:9-353:47
+375            android:name="com.connectapp.user.activity.SearchActivity"
+375-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:350:13-52
+376            android:launchMode="singleTask"
+376-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:351:13-44
+377            android:screenOrientation="portrait"
+377-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:352:13-49
+378            android:theme="@style/AppTheme" />
+378-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:353:13-44
+379        <activity
+379-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:354:9-357:67
+380            android:name="com.connectapp.user.activity.RevenueVillageActivity"
+380-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:355:13-60
+381            android:screenOrientation="portrait"
+381-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:356:13-49
+382            android:windowSoftInputMode="stateHidden|adjustPan" />
+382-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:357:13-64
+383        <activity
+383-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:358:9-362:67
+384            android:name="com.connectapp.user.activity.VillageFormActivity"
+384-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:359:13-57
+385            android:screenOrientation="portrait"
+385-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:360:13-49
+386            android:theme="@style/Theme.MyCompatTheme"
+386-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:361:13-55
+387            android:windowSoftInputMode="stateHidden|adjustPan" />
+387-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:362:13-64
+388        <activity
+388-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:363:9-367:67
+389            android:name="com.connectapp.user.activity.IvanFormActivity"
+389-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:364:13-54
+390            android:screenOrientation="portrait"
+390-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:365:13-49
+391            android:theme="@style/Theme.MyCompatTheme"
+391-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:366:13-55
+392            android:windowSoftInputMode="stateHidden|adjustPan" />
+392-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:367:13-64
+393        <activity
+393-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:368:9-372:47
+394            android:name="com.connectapp.user.activity.SearchViewActivity"
+394-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:369:13-56
+395            android:launchMode="singleTask"
+395-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:370:13-44
+396            android:screenOrientation="portrait"
+396-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:371:13-49
+397            android:theme="@style/AppTheme" />
+397-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:372:13-44
+398        <activity
+398-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:373:9-376:62
+399            android:name="com.connectapp.user.view.FullScreenImageActivity"
+399-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:374:13-57
+400            android:screenOrientation="portrait"
+400-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:375:13-49
+401            android:theme="@style/AppThemeFullScreenImage" />
+401-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:376:13-59
+402
+403        <service
+403-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:378:9-389:19
+404            android:name="com.connectapp.user.syncadapter.AuthenticatorService"
+404-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:379:13-61
+405            android:exported="true"
+405-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:380:13-36
+406            android:process=":auth" >
+406-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:381:13-36
+407            <intent-filter>
+407-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:382:13-384:29
+408                <action android:name="android.accounts.AccountAuthenticator" />
+408-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:383:17-80
+408-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:383:25-77
+409            </intent-filter>
+410
+411            <meta-data
+411-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:386:13-388:57
+412                android:name="android.accounts.AccountAuthenticator"
+412-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:387:17-69
+413                android:resource="@xml/authenticator" />
+413-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:388:17-54
+414        </service>
+415        <!--
+416        Introducing our Content Provider.
+417        W/O that, we'll get: "Failed to find provider info for com.lastmile.providerr"
+418        -->
+419        <provider
+419-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:394:9-398:48
+420            android:name="com.connectapp.user.syncadapter.MyContentProvider"
+420-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:395:13-58
+421            android:authorities="com.connectapp.provider"
+421-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:396:13-58
+422            android:exported="false"
+422-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:397:13-37
+423            android:label="Content Provider" /> <!-- Sync adapter related service -->
+423-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:398:13-45
+424        <service
+424-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:399:9-409:19
+425            android:name="com.connectapp.user.syncadapter.OfflineService"
+425-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:400:13-55
+426            android:exported="true" >
+426-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:401:13-36
+427            <intent-filter>
+427-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:402:13-404:29
+428                <action android:name="android.content.SyncAdapter" />
+428-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:403:17-70
+428-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:403:25-67
+429            </intent-filter>
+430
+431            <meta-data
+431-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:406:13-408:56
+432                android:name="android.content.SyncAdapter"
+432-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:407:17-59
+433                android:resource="@xml/sync_adapter" />
+433-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:408:17-53
+434        </service> <!-- Firebase Notifications -->
+435        <activity
+435-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:410:9-414:67
+436            android:name="com.connectapp.user.firebase.FireBaseActivity"
+436-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:411:13-54
+437            android:screenOrientation="portrait"
+437-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:412:13-49
+438            android:theme="@style/Theme.MyCompatTheme"
+438-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:413:13-55
+439            android:windowSoftInputMode="stateHidden|adjustPan" />
+439-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:414:13-64
+440
+441        <service android:name="com.connectapp.user.firebase.MyFirebaseMessagingService" >
+441-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:416:9-420:19
+441-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:416:18-69
+442            <intent-filter>
+442-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:417:13-419:29
+443                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+443-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:418:17-78
+443-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:418:25-75
+444            </intent-filter>
+445        </service>
+446        <service android:name="com.connectapp.user.firebase.MyFirebaseInstanceIDService" >
+446-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:421:9-425:19
+446-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:421:18-70
+447            <intent-filter>
+447-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:422:13-424:29
+448                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+448-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:423:17-80
+448-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:423:25-77
+449            </intent-filter>
+450        </service>
+451        <!--
+452         FirebaseMessagingService performs security checks at runtime,
+453             no need for explicit permissions despite exported="true"
+454        -->
+455        <service
+455-->[com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\791e484caff857e5f0d9d654636a5986\firebase-messaging-9.2.0\AndroidManifest.xml:24:9-30:19
+456            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+456-->[com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\791e484caff857e5f0d9d654636a5986\firebase-messaging-9.2.0\AndroidManifest.xml:25:13-82
+457            android:exported="true" >
+457-->[com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\791e484caff857e5f0d9d654636a5986\firebase-messaging-9.2.0\AndroidManifest.xml:26:13-36
+458            <intent-filter android:priority="-500" >
+458-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:417:13-419:29
+459                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+459-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:418:17-78
+459-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:418:25-75
+460            </intent-filter>
+461        </service>
+462
+463        <meta-data
+463-->[com.android.support:design:26.1.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:26:9-28:38
+464            android:name="android.support.VERSION"
+464-->[com.android.support:design:26.1.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:27:13-51
+465            android:value="26.1.0" />
+465-->[com.android.support:design:26.1.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\79cdb468918a9c0443e8ae621efb8d08\design-26.1.0\AndroidManifest.xml:28:13-35
+466
+467        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+467-->[com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e1a45c029201d43756dc875c0ab19bfb\play-services-cast-framework-9.2.0\AndroidManifest.xml:6:9-100
+467-->[com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e1a45c029201d43756dc875c0ab19bfb\play-services-cast-framework-9.2.0\AndroidManifest.xml:6:19-97
+468
+469        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+469-->[com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e1a45c029201d43756dc875c0ab19bfb\play-services-cast-framework-9.2.0\AndroidManifest.xml:7:9-104
+469-->[com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e1a45c029201d43756dc875c0ab19bfb\play-services-cast-framework-9.2.0\AndroidManifest.xml:7:18-101
+470        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+470-->[com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e1a45c029201d43756dc875c0ab19bfb\play-services-cast-framework-9.2.0\AndroidManifest.xml:8:9-92
+470-->[com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\e1a45c029201d43756dc875c0ab19bfb\play-services-cast-framework-9.2.0\AndroidManifest.xml:8:18-90
+471
+472        <activity
+472-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:21:9-24:46
+473            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+473-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:21:19-68
+474            android:excludeFromRecents="true"
+474-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:23:19-52
+475            android:exported="false"
+475-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:24:19-43
+476            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+476-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:22:19-78
+477        <!--
+478Service handling Google Sign-In user revocation. For apps that do not integrate with
+479            Google Sign-In, this service will never be started.
+480        -->
+481        <service
+481-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:28:9-31:110
+482            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+482-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:29:13-58
+483            android:exported="true"
+483-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:30:13-36
+484            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+484-->[com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45ab0ee2173bf4ce1f5888bf851083de\play-services-auth-9.2.0\AndroidManifest.xml:31:13-107
+485        <activity
+485-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:26:9-29:64
+486            android:name="com.google.android.gms.ads.AdActivity"
+486-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:27:13-65
+487            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+487-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:28:13-122
+488            android:theme="@android:style/Theme.Translucent" />
+488-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:29:13-61
+489        <activity
+489-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:30:9-31:52
+490            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+490-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:30:19-91
+491            android:theme="@style/Theme.IAPTheme" />
+491-->[com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\f3be2e4cf663fb0844bcd5a26ba7c6d3\play-services-ads-lite-9.2.0\AndroidManifest.xml:31:13-50
+492        <activity
+492-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:21:9-29:20
+493            android:name="com.google.android.gms.appinvite.PreviewActivity"
+493-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:22:17-48
+494            android:exported="true"
+494-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:23:17-40
+495            android:theme="@style/Theme.AppInvite.Preview" >
+495-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:24:17-63
+496            <intent-filter>
+496-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:25:13-28:29
+497                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+497-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:26:17-89
+497-->[com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\882b3cf036f4283fc3e2ea6938e9b472\play-services-appinvite-9.2.0\AndroidManifest.xml:26:25-87
+498
+499                <category android:name="android.intent.category.DEFAULT" />
+499-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+499-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+500            </intent-filter>
+501        </activity>
+502
+503        <service
+503-->[com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\85f96ca9a1f02940b8899991ece93716\firebase-crash-9.2.0\AndroidManifest.xml:26:9-27:50
+504            android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService"
+504-->[com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\85f96ca9a1f02940b8899991ece93716\firebase-crash-9.2.0\AndroidManifest.xml:26:18-79
+505            android:process=":background_crash" />
+505-->[com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\85f96ca9a1f02940b8899991ece93716\firebase-crash-9.2.0\AndroidManifest.xml:27:13-48
+506        <service
+506-->[com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\85f96ca9a1f02940b8899991ece93716\firebase-crash-9.2.0\AndroidManifest.xml:29:9-30:50
+507            android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService"
+507-->[com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\85f96ca9a1f02940b8899991ece93716\firebase-crash-9.2.0\AndroidManifest.xml:29:18-77
+508            android:process=":background_crash" />
+508-->[com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\85f96ca9a1f02940b8899991ece93716\firebase-crash-9.2.0\AndroidManifest.xml:30:13-48
+509
+510        <activity
+510-->[com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\2e4dd02282fed7a368da1770be55ab4e\play-services-base-9.2.0\AndroidManifest.xml:20:9-22:45
+511            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+511-->[com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\2e4dd02282fed7a368da1770be55ab4e\play-services-base-9.2.0\AndroidManifest.xml:20:19-85
+512            android:exported="false"
+512-->[com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\2e4dd02282fed7a368da1770be55ab4e\play-services-base-9.2.0\AndroidManifest.xml:22:19-43
+513            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+513-->[com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\2e4dd02282fed7a368da1770be55ab4e\play-services-base-9.2.0\AndroidManifest.xml:21:19-78
+514
+515        <service
+515-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:25:9-27:42
+516            android:name="com.google.android.gms.tagmanager.TagManagerService"
+516-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:25:18-84
+517            android:enabled="true"
+517-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:27:17-39
+518            android:exported="false" />
+518-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:26:17-41
+519
+520        <activity
+520-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:28:9-37:20
+521            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+521-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:29:13-87
+522            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+522-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:30:13-37
+523            <intent-filter>
+523-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:31:13-36:29
+524                <data android:scheme="tagmanager.c.com.connectapp.user" />
+524-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:32:17-72
+524-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:32:23-69
+525
+526                <action android:name="android.intent.action.VIEW" />
+526-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:33:17-69
+526-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:33:25-66
+527
+528                <category android:name="android.intent.category.DEFAULT" />
+528-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+528-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+529                <category android:name="android.intent.category.BROWSABLE" />
+529-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:35:17-77
+529-->[com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\8573fb4b53bad5d47107e1aa88c6da41\play-services-tagmanager-api-9.2.0\AndroidManifest.xml:35:27-75
+530            </intent-filter>
+531        </activity>
+532
+533        <receiver
+533-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:28:7-34:18
+534            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+534-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:29:11-83
+535            android:enabled="true" >
+535-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:30:11-33
+536            <intent-filter>
+536-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:31:9-33:25
+537                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+537-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:32:11-77
+537-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:32:19-75
+538            </intent-filter>
+539        </receiver>
+540
+541        <service
+541-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:36:7-39:37
+542            android:name="com.google.android.gms.measurement.AppMeasurementService"
+542-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:37:11-82
+543            android:enabled="true"
+543-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:38:11-33
+544            android:exported="false" />
+544-->[com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\45dba0022c0f969eaab125b5578d60b6\firebase-analytics-9.2.0\AndroidManifest.xml:39:11-35
+545
+546        <receiver
+546-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:32:9-41:20
+547            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+547-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:33:13-78
+548            android:exported="true"
+548-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:34:13-36
+549            android:permission="com.google.android.c2dm.permission.SEND" >
+549-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:35:13-73
+550            <intent-filter>
+550-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:36:13-40:29
+551                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+551-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:37:17-81
+551-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:37:25-78
+552                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+552-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:38:17-86
+552-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:38:25-83
+553
+554                <category android:name="com.connectapp.user" />
+554-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:39:17-61
+554-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:39:27-58
+555            </intent-filter>
+556        </receiver>
+557        <!--
+558 Internal (not exported) receiver used by the app to start its own exported services
+559             without risk of being spoofed.
+560        -->
+561        <receiver
+561-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:45:9-47:40
+562            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+562-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:46:13-86
+563            android:exported="false" />
+563-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:47:13-37
+564        <!--
+565 FirebaseInstanceIdService performs security checks at runtime,
+566             no need for explicit permissions despite exported="true"
+567        -->
+568        <service
+568-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:51:9-57:19
+569            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+569-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:52:13-77
+570            android:exported="true" >
+570-->[com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\551de13fd27cabcd7340c015d47b5cf1\firebase-iid-9.2.0\AndroidManifest.xml:53:13-36
+571            <intent-filter android:priority="-500" >
+571-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:422:13-424:29
+572                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+572-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:423:17-80
+572-->C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:423:25-77
+573            </intent-filter>
+574        </service>
+575
+576        <provider
+576-->[com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\c84d745dbef0d41093716ba3d8ba8c38\firebase-common-9.2.0\AndroidManifest.xml:7:9-11:39
+577            android:name="com.google.firebase.provider.FirebaseInitProvider"
+577-->[com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\c84d745dbef0d41093716ba3d8ba8c38\firebase-common-9.2.0\AndroidManifest.xml:9:13-58
+578            android:authorities="com.connectapp.user.firebaseinitprovider"
+578-->[com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\c84d745dbef0d41093716ba3d8ba8c38\firebase-common-9.2.0\AndroidManifest.xml:8:13-72
+579            android:exported="false"
+579-->[com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\c84d745dbef0d41093716ba3d8ba8c38\firebase-common-9.2.0\AndroidManifest.xml:10:13-37
+580            android:initOrder="100" />
+580-->[com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\c84d745dbef0d41093716ba3d8ba8c38\firebase-common-9.2.0\AndroidManifest.xml:11:13-36
+581
+582        <meta-data
+582-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+583            android:name="android.arch.lifecycle.VERSION"
+583-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:26:13-58
+584            android:value="27.0.0-SNAPSHOT" />
+584-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.gradle\caches\transforms-2\files-2.1\b63f6fdf1252fb2617983195ee47e2d1\runtime-1.0.0\AndroidManifest.xml:27:13-44
+585    </application>
+586
+587</manifest>

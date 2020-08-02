@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\1a0abe4b3e281b4f76e649e7632539ba31ffd69e\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\88803bb0c53796b82e2386b4ea2b97f5fe51558d\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\700dec02edf70e2e3b37d0033f9df504cda11ca1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\8f14105812860c4142b8ebebd0b432682a985fe9\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

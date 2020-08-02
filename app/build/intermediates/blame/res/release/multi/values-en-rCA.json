@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\DeferredLive\\.android\\build-cache\\78072f3a044ffc075199524fdcb4120a0f7befb6\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\WIN\\.android\\build-cache\\4a2f11e521bc9023102408b420a1051016493c27\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="13dp" >
+
+    <com.connectapp.user.view.MaterialRippleLayout
+        style="@style/RippleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="24dp"
+        app:rippleColor="@color/main_color_grey_400" >
+
+        <LinearLayout
+            android:id="@+id/ll_pdf_ekal_system"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:orientation="horizontal"
+            android:padding="7dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_pdf" />
+
+            <com.connectapp.user.font.RobotoTextView
+                android:id="@+id/tv_ekal_system"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:paddingLeft="13dp"
+                android:paddingTop="3dp"
+                android:text="Ekal System"
+                android:textColor="#333333"
+                android:textSize="18sp"
+                app:typeface="robotoRegular" />
+        </LinearLayout>
+    </com.connectapp.user.view.MaterialRippleLayout>
+
+  <!--  <LinearLayout
+        android:id="@+id/ll_content_close"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/footerLay"
+        android:layout_below="@+id/subheaderLay"
+        android:background="#EFEFF4"
+        android:orientation="vertical"
+        android:layout_marginTop="13dp"
+        android:padding="3dp" >
+
+        <ListView
+            android:id="@+id/listView_youtubePlaylist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#f5f5f5"
+            android:dividerHeight="1dp" />
+    </LinearLayout>-->
+    <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/grey_border_box"
+        android:orientation="vertical"
+        android:padding="7dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_vid_ev_mission"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:background="#fff"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:orientation="horizontal"
+            android:padding="7dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_youtube" />
+
+            <com.connectapp.user.font.RobotoTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:paddingLeft="13dp"
+                android:paddingTop="3dp"
+                android:text="Ekal Vidyalaya Mission"
+                android:textColor="#333333"
+                android:textSize="18sp"
+                app:typeface="robotoRegular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_vid_ev_story_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="7dp"
+            android:background="#fff"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:orientation="horizontal"
+            android:padding="7dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_youtube" />
+
+            <com.connectapp.user.font.RobotoTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:paddingLeft="13dp"
+                android:paddingTop="3dp"
+                android:text="The Ekal Story - I"
+                android:textColor="#333333"
+                android:textSize="18sp"
+                app:typeface="robotoRegular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_vid_ev_story_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="7dp"
+            android:background="#fff"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:orientation="horizontal"
+            android:padding="7dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_youtube" />
+
+            <com.connectapp.user.font.RobotoTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:paddingLeft="13dp"
+                android:paddingTop="3dp"
+                android:text="The Ekal Story - II"
+                android:textColor="#333333"
+                android:textSize="18sp"
+                app:typeface="robotoRegular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_vid_ev_pm_praise"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="7dp"
+            android:background="#fff"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:orientation="horizontal"
+            android:padding="7dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_youtube" />
+
+            <com.connectapp.user.font.RobotoTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:paddingLeft="13dp"
+                android:paddingTop="3dp"
+                android:text="PM Modi praises Ekal Vidyalaya"
+                android:textColor="#333333"
+                android:textSize="18sp"
+                app:typeface="robotoRegular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_vid_ev_vs_modi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="7dp"
+            android:background="#fff"
+            android:clickable="true"
+            android:elevation="3dp"
+            android:orientation="horizontal"
+            android:padding="7dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_youtube" />
+
+            <com.connectapp.user.font.RobotoTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="3dp"
+                android:paddingLeft="13dp"
+                android:paddingTop="3dp"
+                android:text="Ekal Vidyalaya and PM Modi"
+                android:textColor="#333333"
+                android:textSize="18sp"
+                app:typeface="robotoRegular" />
+        </LinearLayout> 
+    </LinearLayout>
+    -->
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="13dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Fetching your Location! Please wait..."
+        android:textAppearance="?android:textAppearance"
+        android:textColor="@color/material_blue_900" />
+
+    <ProgressBar
+        android:id="@+id/progressBar_location"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="7dp"
+        android:layout_marginTop="13dp"
+        android:elevation="7dp"
+        android:indeterminate="false"
+        android:max="100" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0 sec"
+            android:textAppearance="?android:textAppearance"
+            android:textColor="@color/material_blue_grey_700" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2 mins"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:textAppearance"
+            android:textColor="@color/material_blue_grey_700" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="13dp"
+        android:paddingLeft="21dp"
+        android:paddingRight="21dp"
+        android:text="Cancel"
+        android:textAllCaps="false"
+        android:textColor="@color/material_blue_grey_700" />
+
+</LinearLayout>

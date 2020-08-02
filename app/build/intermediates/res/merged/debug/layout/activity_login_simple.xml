@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:ignore="TextFields" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="13dp"
+        android:background="@drawable/blue_border_box"
+        android:gravity="center"
+        android:padding="7dp" >
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp"
+            android:ems="10"
+            android:fontFamily="sans-serif"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:maxLength="10"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="normal" />
+
+        <CheckBox
+            android:id="@+id/chkbx_rememberMe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etPassword"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginTop="13dp"
+            android:button="@drawable/chkbx_selector"
+            android:padding="10dp"
+            android:text="Remember Me"
+            android:textColor="#004C84" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chkbx_rememberMe"
+            android:layout_marginTop="13dp"
+            android:onClick="onLoginClicked"
+            android:text="Login"
+            android:textAllCaps="true"
+            android:textColor="#1A80C0"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <!-- <TextView
+        android:id="@+id/tv_privacyPolicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:gravity="center_horizontal"
+        android:onClick="onPrivacyPolicyClicked"
+        android:text="* Privacy Policy"
+        android:textColor="#FF3A00"
+        android:textStyle="italic" /> -->
+
+</LinearLayout>

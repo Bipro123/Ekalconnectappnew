@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\xml\\sync_adapter.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\xml\\sync_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\xml\\sync_adapter.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\xml\\sync_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\xml\\authenticator.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\xml\\searchable.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\xml\\searchable.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\xml\\authenticator.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\xml\\authenticator.xml"
+    }
+]

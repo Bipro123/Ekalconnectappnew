@@ -1,0 +1,1099 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:2:1-428:12
+	package
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.android\build-cache\72cc6122c3ec7f2ce8f027f25468477d72b61fe3\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.2.0] C:\Users\WIN\.android\build-cache\91dc5584db2e2f8f2cf500b6156001457108f4a5\output\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\861dab33cb841c9c756e1b59f6e9aa3dc3e60139\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:9:22-95
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:17:22-71
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:18:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:19:22-75
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.android\build-cache\72cc6122c3ec7f2ce8f027f25468477d72b61fe3\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.android\build-cache\961a6ce3e815c30aa8e27a0897d3957573e462eb\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] C:\Users\WIN\.android\build-cache\f14dc902dcb6809655680a54bc2304c4efd596c7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\861dab33cb841c9c756e1b59f6e9aa3dc3e60139\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:21:5-66
+MERGED from [com.firebaseui:firebase-ui-database:0.4.1] C:\Users\WIN\.android\build-cache\5cc6cf459d4b76e6a1164891164d8a26ad696f09\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:27:5-426:19
+MERGED from [com.google.android.gms:play-services:9.2.0] C:\Users\WIN\.android\build-cache\460cda444821f1d2b3e986cffc20dec9993099eb\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.android\build-cache\72cc6122c3ec7f2ce8f027f25468477d72b61fe3\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.2.0] C:\Users\WIN\.android\build-cache\15cb38bb348d656820dd400ad16b0175f2f9fab4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\WIN\.android\build-cache\00a133c161ad1fcb95f005112a6181a561881558\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.2.0] C:\Users\WIN\.android\build-cache\7152f1af59283d55286899c7200716660ccac652\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.2.0] C:\Users\WIN\.android\build-cache\2263877c8243115db4e2de1f2af814fa28958fe1\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.2.0] C:\Users\WIN\.android\build-cache\7f1ba661477899ad8d6d4c5e9696719cd9687d14\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.2.0] C:\Users\WIN\.android\build-cache\e6d70de27cd842fcfd8f50742d38e81cd5d8b82c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.2.0] C:\Users\WIN\.android\build-cache\4fa1ff80468a38939e4831eb03bb5ff0b7927182\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.2.0] C:\Users\WIN\.android\build-cache\a61c281c7436fb3e6ffaaceb54f41fe23a93f01f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.2.0] C:\Users\WIN\.android\build-cache\3d81df9971e5876617c936a8691b5cc812dd5243\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.android\build-cache\961a6ce3e815c30aa8e27a0897d3957573e462eb\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.0] C:\Users\WIN\.android\build-cache\dfe843242b60203ec8d0a07ab7a203643ca7570b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] C:\Users\WIN\.android\build-cache\f14dc902dcb6809655680a54bc2304c4efd596c7\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.2.0] C:\Users\WIN\.android\build-cache\84abc3de80441cd858234c1f18d4ab7166535536\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.2.0] C:\Users\WIN\.android\build-cache\91dc5584db2e2f8f2cf500b6156001457108f4a5\output\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.2.0] C:\Users\WIN\.android\build-cache\3d8c34230e2166621f0dd1e03b4759132492a1c4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.2.0] C:\Users\WIN\.android\build-cache\88803bb0c53796b82e2386b4ea2b97f5fe51558d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.2.0] C:\Users\WIN\.android\build-cache\c6963768e9e465001f85b552b0061ed3dbfac179\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.2.0] C:\Users\WIN\.android\build-cache\2cf19819f8fbfbf50ba139a0309cd493b6ab9f3c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\861dab33cb841c9c756e1b59f6e9aa3dc3e60139\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:9.2.0] C:\Users\WIN\.android\build-cache\43371afbae265cb66a8211fcbe409939990ef157\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.2.0] C:\Users\WIN\.android\build-cache\bc266f87773d6eae060ec46255a1f5a2313c5cdf\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.2.0] C:\Users\WIN\.android\build-cache\c5ee01a7e60008c672cd87b5dd751435fc47eebf\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.android\build-cache\ecfcd320149079e12bb2c6b74fcca011b09452af\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\WIN\.android\build-cache\e2a11d6ec7853303a6bfc1be7970093bd751d377\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WIN\.android\build-cache\c843f7b8a81326be393b3d457ff4d194b1307d10\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WIN\.android\build-cache\9c9b8784fcf01969583de9c589e6a853d7904bc1\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.2.0] C:\Users\WIN\.android\build-cache\0688dfe4a88a9672d577a3ef3ceb4c6d5e2d33a3\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] C:\Users\WIN\.android\build-cache\d8dc042626243c8e1ea5891e391dd2251d656d3d\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WIN\.android\build-cache\997154d765c070a92b8abbf91ffc12a0f636af25\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WIN\.android\build-cache\3b1916c701216eb938141be65df536261b91d949\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WIN\.android\build-cache\249087aec44cb7b58380925c5bd65c6bec6447a2\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WIN\.android\build-cache\1701c402b69114dd098a514a9c2991af1da91aa2\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.android\build-cache\4c3e4d977d638893522d7db319fe697f36993903\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\WIN\.android\build-cache\d4dfaf7bf7d298ad77f884ca5886b36b75e959ef\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN\.android\build-cache\2c9bedde616c8145c4b329db2a341814d14210d1\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.2.0] C:\Users\WIN\.android\build-cache\30ba14a60dfabc21b563ed336dccbcae811a01f4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\WIN\.android\build-cache\d3fb9f357d91efd744906a270fded62cee4e38cc\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\WIN\.android\build-cache\6a7ebdd6da976c1e30cd51c00258f57f1e182349\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WIN\.android\build-cache\5b9ba5e67600860dd7f74e12a1f7391d5c8f923b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WIN\.android\build-cache\28de2bddb60d07b2ffad7b8848ae1ed5463cfe47\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WIN\.android\build-cache\f01200451ffb1f8161f46e6bea3460ee722423cf\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WIN\.android\build-cache\003a8a4eeb0790b465bea47463d4af6500acf1e0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WIN\.android\build-cache\0d87672e28633689f798412c62d6bca4869de8c7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WIN\.android\build-cache\8f14105812860c4142b8ebebd0b432682a985fe9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.android\build-cache\c6880cdf0343c0e0d1a98d49d822fb680e391a84\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:30:9-42
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:28:9-45
+	android:usesCleartextTraffic
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:33:9-44
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:34:9-88
+	android:required
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:34:61-85
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:34:23-60
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:35:9-37:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\WIN\.android\build-cache\6a7ebdd6da976c1e30cd51c00258f57f1e182349\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.connectapp.user.activity.SplashActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:39:9-49:20
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:41:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:43:13-64
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:40:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.connectapp.user.activity.RegistrationActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:50:9-53:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:53:13-64
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:51:13-58
+activity#com.connectapp.user.activity.LoginActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:54:9-57:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:56:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:57:13-64
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:55:13-51
+activity#com.connectapp.user.activity.KeyWordActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:58:9-61:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:60:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:61:13-64
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:59:13-53
+activity#com.connectapp.user.activity.SchoolFormActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:62:9-66:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:64:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:66:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:65:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:63:13-56
+activity#com.connectapp.user.activity.RathFormActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:67:9-71:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:69:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:71:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:70:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:68:13-54
+activity#com.connectapp.user.activity.UnSyncedDataActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:72:9-76:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:76:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:75:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:73:13-58
+activity#com.connectapp.user.activity.MainActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:77:9-80:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:79:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:80:13-64
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:78:13-50
+activity#com.connectapp.user.members.MembersDirectory
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:81:9-95:20
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:83:13-45
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:85:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:82:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:86:13-90:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:17-76
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:89:27-73
+meta-data#android.app.default_searchable
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:92:13-94:72
+	android:value
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:94:17-69
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:93:17-62
+activity#com.connectapp.user.members.NewMembersDirectory
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:96:9-110:20
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:98:13-45
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:100:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:97:13-56
+activity#com.connectapp.user.members.MemberSearchResultsActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:111:9-127:20
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:113:13-45
+	android:launchMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:114:13-43
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:115:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:112:13-64
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:118:13-122:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:17-71
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:119:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:124:13-126:54
+	android:resource
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:126:17-51
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:125:17-54
+activity#com.connectapp.user.members.MemberListActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:128:9-143:20
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:130:13-45
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:131:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:129:13-55
+activity#com.connectapp.user.members.MemberViewActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:144:9-147:54
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:146:13-49
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:147:13-51
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:145:13-55
+activity#com.connectapp.user.membershss.MembersSHSSDirectory
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:148:9-162:20
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:150:13-45
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:152:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:149:13-60
+activity#com.connectapp.user.membershss.NewMembersSHSSDirectory
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:163:9-177:20
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:165:13-45
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:167:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:164:13-63
+activity#com.connectapp.user.membershss.MemberSearchResultsSHSSActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:178:9-194:20
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:180:13-45
+	android:launchMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:181:13-43
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:182:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:179:13-71
+activity#com.connectapp.user.membershss.MemberListSHSSActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:195:9-210:20
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:197:13-45
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:198:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:196:13-62
+activity#com.connectapp.user.membershss.MemberViewSHSSActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:211:9-214:54
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:213:13-49
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:214:13-51
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:212:13-62
+activity#com.connectapp.user.activity.EkalChaptersActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:215:9-218:47
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:217:13-49
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:218:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:216:13-58
+activity#com.connectapp.user.activity.ResourcesActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:219:9-222:58
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:221:13-49
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:222:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:220:13-55
+activity#com.connectapp.user.dropDownActivity.StateCodeActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:223:9-228:58
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:227:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:225:13-46
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:226:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:228:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:224:13-63
+activity#com.connectapp.user.dropDownActivity.PictureCategoryActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:229:9-234:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:233:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:231:13-45
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:232:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:234:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:230:13-69
+activity#com.connectapp.user.dropDownActivity.RathPictureCategoryActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:235:9-240:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:239:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:237:13-45
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:238:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:240:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:236:13-73
+activity#com.connectapp.user.dropDownActivity.RathNumberActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:241:9-246:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:245:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:243:13-40
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:244:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:246:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:242:13-64
+activity#com.connectapp.user.dropDownActivity.StateListActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:247:9-252:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:251:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:249:13-34
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:250:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:252:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:248:13-63
+activity#com.connectapp.user.dropDownActivity.DemoDistListActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:253:9-258:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:257:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:255:13-37
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:256:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:258:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:254:13-66
+activity#com.connectapp.user.view.SchoolDialog
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:259:9-264:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:263:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:261:13-30
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:262:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:264:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:260:13-46
+activity#com.connectapp.user.dropDownActivity.DemoTehsilListActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:265:9-270:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:269:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:267:13-35
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:268:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:270:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:266:13-68
+activity#com.connectapp.user.dropDownActivity.DemoVillageListActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:271:9-276:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:275:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:273:13-36
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:274:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:276:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:272:13-69
+activity#com.connectapp.user.dropDownActivity.DistrictListActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:277:9-282:70
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:281:13-49
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:279:13-37
+	android:noHistory
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:280:13-37
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:282:13-67
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:278:13-66
+activity#com.connectapp.user.activity.HistoryActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:283:9-287:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:285:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:287:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:286:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:284:13-53
+activity#com.connectapp.user.activity.WebViewActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:288:9-292:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:290:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:292:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:291:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:289:13-53
+activity#com.connectapp.user.activity.SchoolViewMenuActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:293:9-297:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:295:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:297:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:296:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:294:13-60
+activity#com.connectapp.user.activity.VillageViewMenuActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:298:9-302:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:300:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:302:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:301:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:299:13-61
+activity#com.connectapp.user.activity.RathViewMenuActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:303:9-307:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:305:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:307:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:306:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:304:13-58
+activity#com.connectapp.user.activity.GPSTutorialActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:308:9-312:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:310:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:312:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:311:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:309:13-57
+activity#com.connectapp.user.activity.ProfileActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:313:9-317:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:315:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:317:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:316:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:314:13-53
+activity#com.connectapp.user.youtube.PlayVideoActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:318:9-329:20
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:321:13-49
+	android:configChanges
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:320:13-74
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:322:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:319:13-54
+meta-data#@string/minVersion
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:323:13-325:37
+	android:value
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:325:17-34
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:324:17-50
+meta-data#@string/isLaunchableActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:326:13-328:40
+	android:value
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:328:17-37
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:327:17-60
+activity#com.connectapp.user.activity.ComingSoonActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:330:9-334:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:332:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:334:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:333:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:331:13-56
+activity#com.connectapp.user.activity.ChatActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:335:9-339:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:337:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:339:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:338:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:336:13-50
+activity#com.connectapp.user.activity.GoogleSignInActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:340:9-344:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:342:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:344:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:343:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:341:13-58
+activity#com.connectapp.user.activity.ChatContactsActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:345:9-348:47
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:347:13-49
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:348:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:346:13-58
+activity#com.connectapp.user.activity.SearchActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:349:9-353:47
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:352:13-49
+	android:launchMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:351:13-44
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:353:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:350:13-52
+activity#com.connectapp.user.activity.RevenueVillageActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:354:9-357:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:356:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:357:13-64
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:355:13-60
+activity#com.connectapp.user.activity.VillageFormActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:358:9-362:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:360:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:362:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:361:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:359:13-57
+activity#com.connectapp.user.activity.IvanFormActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:363:9-367:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:365:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:367:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:366:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:364:13-54
+activity#com.connectapp.user.activity.SearchViewActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:368:9-372:47
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:371:13-49
+	android:launchMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:370:13-44
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:372:13-44
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:369:13-56
+activity#com.connectapp.user.view.FullScreenImageActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:373:9-376:62
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:375:13-49
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:376:13-59
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:374:13-57
+service#com.connectapp.user.syncadapter.AuthenticatorService
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:378:9-389:19
+	android:process
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:381:13-36
+	android:exported
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:380:13-36
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:379:13-61
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:382:13-384:29
+action#android.accounts.AccountAuthenticator
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:383:17-80
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:383:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:386:13-388:57
+	android:resource
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:388:17-54
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:387:17-69
+provider#com.connectapp.user.syncadapter.MyContentProvider
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:394:9-398:48
+	android:authorities
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:396:13-58
+	android:label
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:398:13-45
+	android:exported
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:397:13-37
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:395:13-58
+service#com.connectapp.user.syncadapter.OfflineService
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:399:9-409:19
+	android:exported
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:401:13-36
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:400:13-55
+intent-filter#android.content.SyncAdapter
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:402:13-404:29
+action#android.content.SyncAdapter
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:403:17-70
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:403:25-67
+meta-data#android.content.SyncAdapter
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:406:13-408:56
+	android:resource
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:408:17-53
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:407:17-59
+activity#com.connectapp.user.firebase.FireBaseActivity
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:410:9-414:67
+	android:screenOrientation
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:412:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:414:13-64
+	android:theme
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:413:13-55
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:411:13-54
+service#com.connectapp.user.firebase.MyFirebaseMessagingService
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:416:9-420:19
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:416:18-69
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:417:13-419:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:418:17-78
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:418:25-75
+service#com.connectapp.user.firebase.MyFirebaseInstanceIDService
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:421:9-425:19
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:421:18-70
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:422:13-424:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:423:17-80
+	android:name
+		ADDED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml:423:25-77
+uses-sdk
+INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\WIN\.android\build-cache\ffbdc27a640f715cab1f22391d456dceba7350f7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:9.2.0] C:\Users\WIN\.android\build-cache\460cda444821f1d2b3e986cffc20dec9993099eb\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.2.0] C:\Users\WIN\.android\build-cache\db0683fbdc32f7346522d54e47cd0012d669ec64\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.android\build-cache\72cc6122c3ec7f2ce8f027f25468477d72b61fe3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.2.0] C:\Users\WIN\.android\build-cache\15cb38bb348d656820dd400ad16b0175f2f9fab4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\WIN\.android\build-cache\00a133c161ad1fcb95f005112a6181a561881558\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.2.0] C:\Users\WIN\.android\build-cache\7152f1af59283d55286899c7200716660ccac652\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.2.0] C:\Users\WIN\.android\build-cache\2263877c8243115db4e2de1f2af814fa28958fe1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.2.0] C:\Users\WIN\.android\build-cache\7f1ba661477899ad8d6d4c5e9696719cd9687d14\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.2.0] C:\Users\WIN\.android\build-cache\e6d70de27cd842fcfd8f50742d38e81cd5d8b82c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.2.0] C:\Users\WIN\.android\build-cache\4fa1ff80468a38939e4831eb03bb5ff0b7927182\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.2.0] C:\Users\WIN\.android\build-cache\a61c281c7436fb3e6ffaaceb54f41fe23a93f01f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.2.0] C:\Users\WIN\.android\build-cache\3d81df9971e5876617c936a8691b5cc812dd5243\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.android\build-cache\961a6ce3e815c30aa8e27a0897d3957573e462eb\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.2.0] C:\Users\WIN\.android\build-cache\dfe843242b60203ec8d0a07ab7a203643ca7570b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] C:\Users\WIN\.android\build-cache\f14dc902dcb6809655680a54bc2304c4efd596c7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.2.0] C:\Users\WIN\.android\build-cache\84abc3de80441cd858234c1f18d4ab7166535536\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.2.0] C:\Users\WIN\.android\build-cache\91dc5584db2e2f8f2cf500b6156001457108f4a5\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.2.0] C:\Users\WIN\.android\build-cache\3d8c34230e2166621f0dd1e03b4759132492a1c4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.2.0] C:\Users\WIN\.android\build-cache\88803bb0c53796b82e2386b4ea2b97f5fe51558d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.2.0] C:\Users\WIN\.android\build-cache\c6963768e9e465001f85b552b0061ed3dbfac179\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.2.0] C:\Users\WIN\.android\build-cache\2cf19819f8fbfbf50ba139a0309cd493b6ab9f3c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.2.0] C:\Users\WIN\.android\build-cache\985c8ae74749bd701ecf85c021ca29413016a177\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\861dab33cb841c9c756e1b59f6e9aa3dc3e60139\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.2.0] C:\Users\WIN\.android\build-cache\43371afbae265cb66a8211fcbe409939990ef157\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.2.0] C:\Users\WIN\.android\build-cache\4a2f11e521bc9023102408b420a1051016493c27\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.2.0] C:\Users\WIN\.android\build-cache\bc266f87773d6eae060ec46255a1f5a2313c5cdf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.2.0] C:\Users\WIN\.android\build-cache\c5ee01a7e60008c672cd87b5dd751435fc47eebf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.android\build-cache\ecfcd320149079e12bb2c6b74fcca011b09452af\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:26.1.0] C:\Users\WIN\.android\build-cache\e2a11d6ec7853303a6bfc1be7970093bd751d377\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WIN\.android\build-cache\c843f7b8a81326be393b3d457ff4d194b1307d10\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WIN\.android\build-cache\9c9b8784fcf01969583de9c589e6a853d7904bc1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.0] C:\Users\WIN\.android\build-cache\2c0c0dac7a6bd0d7b83e10f6ee728b6e52fbc5c7\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:9.2.0] C:\Users\WIN\.android\build-cache\0688dfe4a88a9672d577a3ef3ceb4c6d5e2d33a3\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] C:\Users\WIN\.android\build-cache\d8dc042626243c8e1ea5891e391dd2251d656d3d\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.0] C:\Users\WIN\.android\build-cache\e0533d3c544d81fb7903bca96a28f8ecca0d7202\output\AndroidManifest.xml:4:5-43
+MERGED from [com.firebaseui:firebase-ui-database:0.4.1] C:\Users\WIN\.android\build-cache\5cc6cf459d4b76e6a1164891164d8a26ad696f09\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WIN\.android\build-cache\997154d765c070a92b8abbf91ffc12a0f636af25\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WIN\.android\build-cache\3b1916c701216eb938141be65df536261b91d949\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WIN\.android\build-cache\249087aec44cb7b58380925c5bd65c6bec6447a2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WIN\.android\build-cache\1701c402b69114dd098a514a9c2991af1da91aa2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:9.2.0] C:\Users\WIN\.android\build-cache\83533521a28d01bfd30e4e61546a8469f24ef351\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.2.0] C:\Users\WIN\.android\build-cache\cae42d75e4d5eaa5f586807218ee318a227d8dd1\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.2.0] C:\Users\WIN\.android\build-cache\00a0c6648b75ed5b4b659b5b852b301f051b609e\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.2.0] C:\Users\WIN\.android\build-cache\4dbad4dd963c752d3f10b06e7e25bb7a69349e0f\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.android\build-cache\4c3e4d977d638893522d7db319fe697f36993903\output\AndroidManifest.xml:18:5-42
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\WIN\.android\build-cache\d4dfaf7bf7d298ad77f884ca5886b36b75e959ef\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\WIN\.android\build-cache\2c9bedde616c8145c4b329db2a341814d14210d1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:9.2.0] C:\Users\WIN\.android\build-cache\30ba14a60dfabc21b563ed336dccbcae811a01f4\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\WIN\.android\build-cache\d3fb9f357d91efd744906a270fded62cee4e38cc\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\WIN\.android\build-cache\6a7ebdd6da976c1e30cd51c00258f57f1e182349\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WIN\.android\build-cache\5b9ba5e67600860dd7f74e12a1f7391d5c8f923b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WIN\.android\build-cache\28de2bddb60d07b2ffad7b8848ae1ed5463cfe47\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WIN\.android\build-cache\f01200451ffb1f8161f46e6bea3460ee722423cf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WIN\.android\build-cache\003a8a4eeb0790b465bea47463d4af6500acf1e0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WIN\.android\build-cache\0d87672e28633689f798412c62d6bca4869de8c7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WIN\.android\build-cache\8f14105812860c4142b8ebebd0b432682a985fe9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.android\build-cache\c6880cdf0343c0e0d1a98d49d822fb680e391a84\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\WIN\.android\build-cache\e2a11d6ec7853303a6bfc1be7970093bd751d377\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN\AndroidStudioProjects\EkalConnectApp-Studio\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] C:\Users\WIN\.android\build-cache\022b6469bc871c65f7d31259e0687885aded903c\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.android\build-cache\72cc6122c3ec7f2ce8f027f25468477d72b61fe3\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\861dab33cb841c9c756e1b59f6e9aa3dc3e60139\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\WIN\.android\build-cache\72cc6122c3ec7f2ce8f027f25468477d72b61fe3\output\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.2.0] C:\Users\WIN\.android\build-cache\01edaf05678d3d1d8eacc078854fb06a7d953524\output\AndroidManifest.xml:26:25-87
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.2.0] C:\Users\WIN\.android\build-cache\07aa02a895e396a7a3e5d04b7ceae24c0e92de2f\output\AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.2.0] C:\Users\WIN\.android\build-cache\4eb60bf2e04590dff989236f06ef53fd5ff66a2f\output\AndroidManifest.xml:29:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.android\build-cache\961a6ce3e815c30aa8e27a0897d3957573e462eb\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] C:\Users\WIN\.android\build-cache\f14dc902dcb6809655680a54bc2304c4efd596c7\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.2.0] C:\Users\WIN\.android\build-cache\961a6ce3e815c30aa8e27a0897d3957573e462eb\output\AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.2.0] C:\Users\WIN\.android\build-cache\c1ca644741453e384cc0ea0c1ea51d9c7bcc5bb2\output\AndroidManifest.xml:35:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\WIN\.android\build-cache\279034f0fce6069b37fedecab0c3a95aedc4d38b\output\AndroidManifest.xml:24:8-31
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.android\build-cache\ecfcd320149079e12bb2c6b74fcca011b09452af\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.android\build-cache\ecfcd320149079e12bb2c6b74fcca011b09452af\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.2.0] C:\Users\WIN\.android\build-cache\ecfcd320149079e12bb2c6b74fcca011b09452af\output\AndroidManifest.xml:25:13-82
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\WIN\.android\build-cache\e2a11d6ec7853303a6bfc1be7970093bd751d377\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WIN\.android\build-cache\c843f7b8a81326be393b3d457ff4d194b1307d10\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WIN\.android\build-cache\9c9b8784fcf01969583de9c589e6a853d7904bc1\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WIN\.android\build-cache\997154d765c070a92b8abbf91ffc12a0f636af25\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WIN\.android\build-cache\3b1916c701216eb938141be65df536261b91d949\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WIN\.android\build-cache\249087aec44cb7b58380925c5bd65c6bec6447a2\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WIN\.android\build-cache\1701c402b69114dd098a514a9c2991af1da91aa2\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WIN\.android\build-cache\5b9ba5e67600860dd7f74e12a1f7391d5c8f923b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WIN\.android\build-cache\28de2bddb60d07b2ffad7b8848ae1ed5463cfe47\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WIN\.android\build-cache\f01200451ffb1f8161f46e6bea3460ee722423cf\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WIN\.android\build-cache\003a8a4eeb0790b465bea47463d4af6500acf1e0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WIN\.android\build-cache\0d87672e28633689f798412c62d6bca4869de8c7\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WIN\.android\build-cache\8f14105812860c4142b8ebebd0b432682a985fe9\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\WIN\.android\build-cache\e2a11d6ec7853303a6bfc1be7970093bd751d377\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\WIN\.android\build-cache\e2a11d6ec7853303a6bfc1be7970093bd751d377\output\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.0] C:\Users\WIN\.android\build-cache\4034ae6889617fe177fd59097ffa750c8f2822b5\output\AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.android\build-cache\4c3e4d977d638893522d7db319fe697f36993903\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.android\build-cache\4c3e4d977d638893522d7db319fe697f36993903\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.android\build-cache\4c3e4d977d638893522d7db319fe697f36993903\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\WIN\.android\build-cache\4c3e4d977d638893522d7db319fe697f36993903\output\AndroidManifest.xml:20:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] C:\Users\WIN\.android\build-cache\57a1991eb261cab05736f20fbe9eb9457d6427d8\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] C:\Users\WIN\.android\build-cache\4599b31be749637158b4aad18ff92e2155e376ab\output\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] C:\Users\WIN\.android\build-cache\931be2a8f3569ab5ae7dca2cc1032c0f57bc4ad5\output\AndroidManifest.xml:52:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.0] C:\Users\WIN\.android\build-cache\2342c7058c19e48d718009830dcd3e03a8119c66\output\AndroidManifest.xml:9:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.android\build-cache\c6880cdf0343c0e0d1a98d49d822fb680e391a84\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.android\build-cache\c6880cdf0343c0e0d1a98d49d822fb680e391a84\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WIN\.android\build-cache\c6880cdf0343c0e0d1a98d49d822fb680e391a84\output\AndroidManifest.xml:26:13-58

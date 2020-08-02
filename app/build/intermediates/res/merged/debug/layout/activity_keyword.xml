@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:weightSum="13" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:text="Select Keyword"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#166288"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#333333" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="7dp"
+        android:background="#333333" />
+
+    <ListView
+        android:id="@+id/lv_keyword"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:paddingBottom="7dp"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp" >
+    </ListView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#333333" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="7dp"
+        android:background="@drawable/signin_btn_selector"
+        android:onClick="onQuestionsClicked"
+        android:paddingBottom="7dp"
+        android:paddingLeft="17dp"
+        android:paddingRight="17dp"
+        android:paddingTop="7dp"
+        android:text="Go to Questions/Forms"
+        android:textAllCaps="false"
+        android:textAppearance="?android:attr/textAppearance"
+        android:textColor="#f5f5f5" />
+
+</LinearLayout>

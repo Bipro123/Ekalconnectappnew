@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close_window.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\close_window.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\data_settings.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\data_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_attach_file.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_incoming.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_incoming.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_off_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_chat.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps1.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps1.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_people.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_profile.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\bg_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_play.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\swipe_right.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\swipe_right.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\warning.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_call.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pattern.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\pattern.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_off_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps3.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps3.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_edit_profile.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_edit_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uncheck.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\uncheck.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_edit.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mandatory.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_mandatory.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_home.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\nav_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_date.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dropdown_arrow_4.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\dropdown_arrow_4.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_play.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_on_light.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_chat.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_profile.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_bg.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\chat_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\success.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_off_dark.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_off_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_pause.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\swipe_right.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\swipe_right.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_send.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\swipe_left.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\swipe_left.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps2.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps2.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps2.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps2.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mail.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_text_background_main.9.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\edit_text_background_main.9.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_next.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uncheck.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\uncheck.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reject_pic.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_reject_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_send.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_white.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_home_white.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pdf.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pdf.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dropdown_arrow_4.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\dropdown_arrow_4.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checked.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_previous.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_document.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_document.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_previous.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_document.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_document.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\success.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_on_light.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mail.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_empty.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\default_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_text_background_accent.9.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\edit_text_background_accent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps3.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps3.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\swipe_left.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\swipe_left.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_profile.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\bg_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_help.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_next.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_profile.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_date.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_google_plus.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_off_dark.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_off_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checked.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_youtube.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_on_dark.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_on_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_pause.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_gmail.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_off_light.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close_window.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\close_window.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_empty.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\default_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_text_background_accent.9.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\edit_text_background_accent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mandatory.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_mandatory.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_text_background_main.9.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\edit_text_background_main.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\data_settings.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\data_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps4.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps4.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_google_plus.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_incoming.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_incoming.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_call.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_attach_file.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_attach_file.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_home.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\nav_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_help.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_spouse.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_add_spouse.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_white.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_home_white.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps1.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps1.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_off_light.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_people.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pattern.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\pattern.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_on_dark.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\check_on_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_bg.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\chat_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\warning.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_youtube.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\DeferredLive\\.android\\build-cache\\8f80dbff9234da7758d1b5f7337a19a42895cf94\\output\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reject_pic.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_reject_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_edit_profile.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_edit_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_gmail.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_light.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_spouse.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_add_spouse.png"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps4.png",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\gps4.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_edit.png",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\WIN\\.android\\build-cache\\00a133c161ad1fcb95f005112a6181a561881558\\output\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
+    }
+]

@@ -1,0 +1,97 @@
+{
+  "status": "200",
+  "rath": [
+    {
+      "rathNumber": "JH-10P4919",
+      "rathName": "S.Jharkhand JH-10P4919"
+    },
+    {
+      "rathNumber": "NL-02D8551",
+      "rathName": "Dibrugarh NL-02D8551"
+    },
+    {
+      "rathNumber": "RJ-36GA1110",
+      "rathName": "Jaipur RJ-36GA1110"
+    },
+    {
+      "rathNumber": "UP-42AC0724",
+      "rathName": "Gorakhpur UP-42AC0724"
+    },
+    {
+      "rathNumber": "UP-42AC0725",
+      "rathName": "Magadh UP-42AC0725"
+    },
+    {
+      "rathNumber": "UP-42H2275",
+      "rathName": "S.Chhatisgarh UP-42H2275"
+    },
+    {
+      "rathNumber": "UP-42K6622",
+      "rathName": "Awadh UP-42K6622"
+    },
+    {
+      "rathNumber": "UP-42M8991",
+      "rathName": "E. Orissa UP-42M8991"
+    },
+    {
+      "rathNumber": "UP-42M9616",
+      "rathName": "Ambikapur UP-42M9616"
+    },
+    {
+      "rathNumber": "UP-42S4739",
+      "rathName": "Bihar(Mithila) UP-42S4739"
+    },
+    {
+      "rathNumber": "UP-42S4740",
+      "rathName": "Dhanbad UP-42S4740"
+    },
+    {
+      "rathNumber": "UP-42T3085",
+      "rathName": "U.Malwa UP-42T3085"
+    },
+    {
+      "rathNumber": "UP-42T3129",
+      "rathName": "W.Orissa UP-42T3129"
+    },
+    {
+      "rathNumber": "UP-42T4203",
+      "rathName": "Gawahati UP-42T4203"
+    },
+    {
+      "rathNumber": "UP-42T4487",
+      "rathName": "Madhyabhart UP-42T4487"
+    },
+    {
+      "rathNumber": "UP-42T5668",
+      "rathName": "Mahakoshal UP-42T5668"
+    },
+    {
+      "rathNumber": "UP-42U3913",
+      "rathName": "Ruhelkhand UP-42U3913"
+    },
+    {
+      "rathNumber": "UP-42U4486",
+      "rathName": "Gujarat UP-42U4486"
+    },
+    {
+      "rathNumber": "UP-42U5918",
+      "rathName": "Srisailam UP-42U5918"
+    },
+    {
+      "rathNumber": "UP-42W6811",
+      "rathName": "Kakathiya UP-42W6811"
+    },
+    {
+      "rathNumber": "UP-42Z2973",
+      "rathName": "S.Bengal UP-42Z2973"
+    },
+    {
+      "rathNumber": "UP-42Z2974",
+      "rathName": "Ranchi UP-42Z2974"
+    },
+    {
+      "rathNumber": "WB-19A6183",
+      "rathName": "N.Bengal WB-19A6183"
+    }
+  ]
+}

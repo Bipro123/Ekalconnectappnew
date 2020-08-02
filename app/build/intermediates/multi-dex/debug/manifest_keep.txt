@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:48
+-keep class com.connectapp.user.volley.AppController { <init>(...); }
+

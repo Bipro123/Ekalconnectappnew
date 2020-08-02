@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:background="#f5f5f5"
+    android:orientation="horizontal"
+    android:weightSum="2" >
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="0dp"
+        android:layout_height="35dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="text"
+        android:textColor="#333333" />
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switch_id"
+        android:layout_width="0dp"
+        android:layout_height="35dp"
+        android:layout_marginRight="7dp"
+        android:layout_weight="1"
+        android:checked="false"
+        android:gravity="center_vertical|left"
+        android:paddingRight="13dp"
+        android:textOff="Off"
+        android:textOn="On"
+         />
+
+</LinearLayout>

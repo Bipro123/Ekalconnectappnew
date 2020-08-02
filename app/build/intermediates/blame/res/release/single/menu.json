@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_help.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\menu_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_dashboard.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\menu_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_dashboard.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\menu_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_help.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\menu_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\Users\\DeferredLive\\Projects\\ConnectApp\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\Users\\WIN\\AndroidStudioProjects\\EkalConnectApp-Studio\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

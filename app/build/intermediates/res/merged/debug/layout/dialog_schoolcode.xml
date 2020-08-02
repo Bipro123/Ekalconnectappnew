@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="7dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="13dp">
+
+        <ImageButton
+            android:id="@+id/btn_close"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right"
+            android:background="@color/transparent"
+            android:src="@drawable/close_window" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:gravity="center"
+            android:text="School Code"
+            android:textAllCaps="true"
+            android:textColor="#333333"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/tvCountryCode"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:gravity="center"
+                android:padding="5dp"
+                android:singleLine="true"
+                android:text="BH"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+
+            <TextView
+                android:id="@+id/tv_stateCode"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:clickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:text="-"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/text_view_focus">
+
+                <requestFocus />
+            </TextView>
+
+            <EditText
+                android:id="@+id/et_anchal"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:clickable="true"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+
+            <EditText
+                android:id="@+id/et_sankul"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:clickable="true"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="1"
+                android:singleLine="true"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:weightSum="4">
+
+            <EditText
+                android:id="@+id/et_sanch"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:clickable="true"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="1"
+                android:singleLine="true"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+
+            <EditText
+                android:id="@+id/et_upsanch"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:clickable="true"
+                android:gravity="center"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="1"
+                android:singleLine="true"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+
+            <EditText
+                android:id="@+id/et_village"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/grey_border_box"
+                android:clickable="true"
+                android:gravity="center"
+                android:imeOptions="actionDone"
+                android:inputType="number"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="31dp"
+            android:layout_marginRight="31dp"
+            android:layout_marginTop="7dp">
+
+            <com.connectapp.user.view.MaterialRippleLayout
+                style="@style/RippleStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp"
+                app:rippleColor="@color/main_color_grey_400">
+
+                <com.connectapp.user.font.RobotoTextView
+                    android:id="@+id/submit"
+                    style="@style/ButtonStyle.RaisedEmpty"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="0dp"
+                    android:background="@color/main_color_500"
+                    android:minWidth="112dp"
+
+                    android:text="Submit"
+                    android:textColor="#fff" />
+            </com.connectapp.user.view.MaterialRippleLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="13dp" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="7dp"
+        android:shadowColor="#dd000000"
+        android:shadowDx="-1"
+        android:shadowDy="-1"
+        android:shadowRadius="2"
+        android:text="Register User"
+        android:textAppearance="?android:attr/textAppearanceMediumInverse"
+        android:textColor="#388ECE" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        android:src="@drawable/app_icon" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/blue_border_box"
+        android:orientation="vertical"
+        android:padding="7dp" >
+
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:hint="Name"
+            android:imeOptions="actionNext"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#333333" />
+
+        <EditText
+            android:id="@+id/et_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:hint="Phone"
+            android:imeOptions="actionNext"
+            android:inputType="phone"
+            android:maxLength="10"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#333333" />
+
+        <EditText
+            android:id="@+id/et_organizationId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:hint="Organization Code"
+            android:imeOptions="actionNext"
+            android:inputType="textShortMessage"
+            android:maxLength="10"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#333333" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chkbx_rememberMe"
+            android:layout_marginTop="13dp"
+            android:imeOptions="actionDone"
+            android:onClick="onRegisterClick"
+            android:singleLine="true"
+            android:text="Submit"
+            android:textAllCaps="true"
+            android:textColor="#1A80C0"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Already Registered?"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#333333"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/tv_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:text="LOGIN"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#00aa00"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

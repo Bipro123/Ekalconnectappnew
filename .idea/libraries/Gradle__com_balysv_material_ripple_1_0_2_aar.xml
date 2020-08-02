@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.balysv:material-ripple:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/d4dfaf7bf7d298ad77f884ca5886b36b75e959ef/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d4dfaf7bf7d298ad77f884ca5886b36b75e959ef/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

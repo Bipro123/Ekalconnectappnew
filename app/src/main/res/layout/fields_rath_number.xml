@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:layout_marginTop="7dp"
+    android:background="@drawable/grey_border_box" >
+
+    <TextView
+        android:id="@+id/dropDownActivity_rathNumber"
+        android:layout_width="match_parent"
+        android:layout_height="31.5dp"
+        android:layout_centerVertical="true"
+        android:background="@android:color/transparent"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:hint="select"
+        android:paddingLeft="13dp"
+        android:paddingRight="35dp"
+        android:singleLine="true"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#333333" />
+
+    <ImageView
+        android:layout_width="31.5dp"
+        android:layout_height="31.5dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="2dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/dropdown_arrow_4"
+        android:visibility="visible" />
+
+</RelativeLayout>

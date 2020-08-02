@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#f5f5f5"
+    android:orientation="vertical"
+    android:padding="13dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:background="#f5f5f5"
+        android:orientation="vertical"
+        android:padding="3dp" >
+
+        <ImageButton
+            android:id="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_margin="3dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/close_window" />
+
+        <RelativeLayout
+            android:id="@+id/rl_unsyncedDataCount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/grey_border_box"
+            android:gravity="top"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp" >
+
+            <TextView
+                android:id="@+id/tv_unsyncedData"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:padding="7dp"
+                android:text="Unsynced Data: ()"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#333333" />
+        </RelativeLayout>
+
+       <!--  <Button
+            android:id="@+id/btn_sync_now"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="9dp"
+            android:background="@drawable/green_btn_selector"
+            android:gravity="center"
+            android:minHeight="35dp"
+            android:text="Sync Now"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="#f5f5f5" /> -->
+    </LinearLayout>
+
+</RelativeLayout>
